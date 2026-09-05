@@ -241,6 +241,8 @@ def main():
 
     data = {
         "generated_note": f"PubMed | Quartile = SJR Best Quartile จาก Scimago {sci_year}",
+        "generated_at": __import__("datetime").datetime.now(
+            __import__("datetime").timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "sci_year": sci_year,
         "years": years,
         "roster": sorted({r["display"] for r in roster}),

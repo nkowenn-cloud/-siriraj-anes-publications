@@ -576,11 +576,28 @@ document.addEventListener('DOMContentLoaded', function(){
   if(ds) ds.textContent = range + ' · Data from PubMed';
   var js = document.getElementById('jrefSummary');
   if(js) js.textContent = 'Journal reference table (SJR Best Quartile, Scimago ' + sy + ')';
-  var fn = document.getElementById('footNote');
-  if(fn) fn.textContent = 'Built from PubMed records matched against the department faculty list ('
+  var fn = document.getElementById('footNote');  if(fn) fn.textContent = 'Built from PubMed records matched against the department faculty list ('
     + range + '). Quartile = SJR Best Quartile, Scimago Journal Rank ' + sy + ', matched by ISSN. '
     + '"Not in Scopus" means the journal does not appear in the Scimago ' + sy + ' file. '
     + 'The latest year (' + yTo + ') may be incomplete. Updated automatically from PubMed.';
+
+  var us = document.getElementById('updatedStamp');
+  if(us){
+    if(DATA.generated_at){
+      var d = new Date(DATA.generated_at);
+      if(!isNaN(d)){
+        var days = Math.floor((Date.now() - d.getTime()) / 86400000);
+        var ago = days <= 0 ? 'today' : (days === 1 ? 'yesterday' : days + ' days ago');
+        us.textContent = 'Data last rebuilt: ' + d.toLocaleString(undefined, {
+          year:'numeric', month:'short', day:'numeric',
+          hour:'2-digit', minute:'2-digit'
+        }) + ' (' + ago + ') · ' + DATA.papers.length + ' records';
+        if(days > 14){ us.style.color = '#AD7A22'; us.textContent += ' — auto-update may have stopped'; }
+      }
+    } else {
+      us.textContent = 'Data rebuild time unknown (built with an older script version)';
+    }
+  }
 
   renderHome();
 
