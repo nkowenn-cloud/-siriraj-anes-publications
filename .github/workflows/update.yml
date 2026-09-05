@@ -1,0 +1,53 @@
+name: Update publications from PubMed
+
+on:
+  schedule:
+    - cron: '0 1 * * 1'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'build/**'
+      - 'data/faculty.csv'
+      - 'data/scimagojr_*.csv'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-publications
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch from PubMed
+        if: github.event_name != 'push'
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+          START_YEAR: '2021'
+        run: python build/fetch_pubmed.py
+
+      - name: Build site
+        run: python build/build_site.py
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html data/pubmed.nbib
+          if git diff --staged --quiet; then
+            echo "ไม่มีอะไรเปลี่ยน"
+          else
+            git commit -m "อัปเดตผลงานจาก PubMed ($(date -u +%Y-%m-%d))"
+            git push
+          fi
