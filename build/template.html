@@ -1,0 +1,469 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Publication Registry — Department of Anesthesiology, Siriraj</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@500;600;700&family=Noto+Sans+Thai:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+:root{
+  --paper:#F6F4EE;
+  --paper-raised:#FBFAF6;
+  --ink:#1C1712;
+  --ink-soft:#4A423B;
+  --muted:#8B8275;
+  --line:#DED6C7;
+  --line-strong:#C7BCA8;
+  --maroon:#7A2331;
+  --maroon-deep:#57131F;
+  --maroon-tint:#F3E4E4;
+  --teal:#1E6E67;
+  --teal-tint:#E3EEEC;
+  --gold:#AD7A22;
+  --gold-tint:#F3E9D4;
+  --grey-bar:#C9C1B2;
+  --radius:3px;
+  --serif: 'Noto Serif Thai', 'Sarabun', serif;
+  --sans: 'Noto Sans Thai', 'Sarabun', system-ui, sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, monospace;
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--sans);
+  font-size:15px;
+  line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:inherit;}
+button{font-family:inherit;}
+::selection{background:var(--gold-tint);}
+
+/* ---------- masthead ---------- */
+.masthead{
+  border-bottom:2px solid var(--ink);
+  padding:22px 28px 14px;
+  background:var(--paper-raised);
+}
+.masthead-inner{
+  max-width:1080px; margin:0 auto;
+  display:flex; align-items:flex-end; justify-content:space-between;
+  gap:20px; flex-wrap:wrap;
+}
+.masthead h1{
+  font-family:var(--serif);
+  font-weight:700;
+  font-size:clamp(22px,3.2vw,30px);
+  margin:0 0 3px;
+  letter-spacing:.2px;
+  cursor:pointer;
+}
+.masthead .sub{
+  font-size:13px; color:var(--muted);
+}
+.masthead nav{display:flex; gap:4px;}
+.nav-btn{
+  border:1px solid var(--line-strong);
+  background:transparent;
+  color:var(--ink-soft);
+  padding:8px 14px;
+  font-size:13.5px;
+  border-radius:var(--radius);
+  cursor:pointer;
+}
+.nav-btn:hover{border-color:var(--maroon); color:var(--maroon);}
+.nav-btn.active{background:var(--ink); border-color:var(--ink); color:var(--paper);}
+
+.rule-double{
+  max-width:1080px; margin:8px auto 0;
+  border-top:1px solid var(--ink); height:3px; border-bottom:1px solid var(--ink);
+}
+
+/* ---------- banner ---------- */
+.banner{
+  max-width:1080px; margin:16px auto 0; padding:0 28px;
+}
+.banner-inner{
+  border:1px solid var(--gold); background:var(--gold-tint);
+  border-radius:var(--radius);
+  padding:10px 14px; font-size:13px; color:#5C4415;
+  display:flex; justify-content:space-between; align-items:center; gap:12px;
+}
+.banner-inner button{
+  border:none; background:none; color:#5C4415; text-decoration:underline;
+  cursor:pointer; font-size:13px; flex-shrink:0;
+}
+
+/* ---------- layout ---------- */
+main{max-width:1080px; margin:0 auto; padding:28px;}
+.view{display:none;}
+.view.active{display:block;}
+
+/* ---------- home ---------- */
+.home-hero{padding:36px 0 28px; text-align:left;}
+.home-hero h2{
+  font-family:var(--serif); font-weight:700;
+  font-size:clamp(26px,4vw,38px); margin:0 0 10px; line-height:1.25;
+}
+.home-hero p{color:var(--ink-soft); max-width:560px; margin:0 0 26px; font-size:15px;}
+
+.search-wrap{position:relative; max-width:520px;}
+.search-input{
+  width:100%; padding:14px 16px; font-size:17px;
+  border:1.5px solid var(--ink); border-radius:var(--radius);
+  background:var(--paper-raised); font-family:var(--sans); color:var(--ink);
+}
+.search-input:focus{outline:2px solid var(--maroon); outline-offset:1px;}
+.search-results{
+  position:absolute; left:0; right:0; top:calc(100% + 6px);
+  background:var(--paper-raised); border:1px solid var(--line-strong);
+  border-radius:var(--radius); max-height:340px; overflow:auto;
+  box-shadow:0 6px 18px rgba(28,23,18,.10);
+  z-index:20; display:none;
+}
+.search-results.show{display:block;}
+.search-row{
+  display:flex; justify-content:space-between; align-items:center;
+  padding:10px 14px; cursor:pointer; border-bottom:1px solid var(--line);
+  font-size:14.5px;
+}
+.search-row:last-child{border-bottom:none;}
+.search-row:hover, .search-row.hi{background:var(--maroon-tint);}
+.search-row .cnt{font-family:var(--mono); font-size:12px; color:var(--muted);}
+.search-row.empty{color:var(--muted); cursor:default;}
+.search-row.empty:hover{background:none;}
+
+.home-stats{
+  display:grid; grid-template-columns:repeat(4,1fr); gap:1px;
+  background:var(--line); border:1px solid var(--line); margin-top:40px;
+  border-radius:var(--radius); overflow:hidden;
+}
+.home-stat{background:var(--paper-raised); padding:16px 18px;}
+.home-stat .num{font-family:var(--mono); font-weight:600; font-size:26px; color:var(--maroon);}
+.home-stat .lbl{font-size:12.5px; color:var(--muted); margin-top:2px;}
+
+.home-list-title{
+  font-family:var(--serif); font-weight:600; font-size:15px;
+  margin:44px 0 10px; color:var(--ink-soft);
+  border-bottom:1px solid var(--line); padding-bottom:8px;
+}
+.chip-row{display:flex; flex-wrap:wrap; gap:7px;}
+.chip{
+  border:1px solid var(--line-strong); border-radius:20px; padding:6px 13px;
+  font-size:13px; cursor:pointer; background:var(--paper-raised); color:var(--ink-soft);
+}
+.chip:hover{border-color:var(--maroon); color:var(--maroon);}
+
+/* ---------- filter panel ---------- */
+.filters{
+  border:1px solid var(--line-strong); border-radius:var(--radius);
+  background:var(--paper-raised); padding:16px 18px; margin-bottom:22px;
+}
+.filters-head{
+  display:flex; justify-content:space-between; align-items:center; cursor:pointer;
+}
+.filters-head h4{margin:0; font-size:13.5px; font-weight:600; color:var(--ink-soft);}
+.filters-head .toggle{font-size:12px; color:var(--muted);}
+.filters-body{margin-top:14px; display:grid; gap:14px;}
+.filters-body.collapsed{display:none;}
+.fgroup-label{font-size:11.5px; color:var(--muted); margin-bottom:6px; display:block;}
+.pillset{display:flex; flex-wrap:wrap; gap:6px;}
+.pill{
+  border:1px solid var(--line-strong); border-radius:20px; padding:5px 12px;
+  font-size:12.5px; cursor:pointer; background:var(--paper); color:var(--ink-soft);
+  user-select:none;
+}
+.pill.on{background:var(--ink); border-color:var(--ink); color:var(--paper);}
+.pill.q1.on{background:var(--gold); border-color:var(--gold); color:#2A1D06;}
+.filters-foot{display:flex; justify-content:flex-end;}
+.reset-link{
+  border:none; background:none; color:var(--maroon); font-size:12.5px;
+  cursor:pointer; text-decoration:underline; padding:0;
+}
+
+/* ---------- person / dept view ---------- */
+.crumb{font-size:12.5px; color:var(--muted); margin-bottom:8px;}
+.crumb button{border:none;background:none;color:var(--maroon);cursor:pointer;font-size:12.5px;padding:0;text-decoration:underline;}
+h2.pagetitle{
+  font-family:var(--serif); font-weight:700; font-size:clamp(22px,3.5vw,30px);
+  margin:0 0 4px;
+}
+.pagesub{color:var(--muted); font-size:13px; margin-bottom:22px;}
+
+.statrow{
+  display:grid; grid-template-columns:repeat(5,1fr); gap:1px;
+  background:var(--line); border:1px solid var(--line); margin-bottom:22px;
+  border-radius:var(--radius); overflow:hidden;
+}
+.statcell{background:var(--paper-raised); padding:14px 12px 12px;}
+.statcell .num{font-family:var(--mono); font-weight:600; font-size:24px;}
+.statcell .lbl{font-size:11.5px; color:var(--muted); margin-top:3px; line-height:1.35;}
+.statcell.q1 .num{color:var(--gold);}
+.statcell.first .num{color:var(--maroon);}
+.statcell.last .num{color:var(--teal);}
+
+.chart-box{
+  border:1px solid var(--line-strong); border-radius:var(--radius);
+  background:var(--paper-raised); padding:16px 18px 14px; margin-bottom:22px;
+  overflow:hidden;
+}
+.chart-box h4{margin:0 0 10px; font-size:13px; color:var(--ink-soft); font-weight:600;}
+.chart-canvas-wrap{position:relative; width:100%; height:230px; overflow:hidden;}
+.chart-canvas-wrap canvas{position:absolute; top:0; left:0; width:100% !important; height:100% !important; display:block;}
+@media (max-width:480px){ .chart-canvas-wrap{height:200px;} }
+
+.legend-row{display:flex; gap:14px; font-size:12px; color:var(--ink-soft); margin:0 0 12px; flex-wrap:wrap;}
+.legend-sw{display:inline-block; width:9px; height:9px; border-radius:2px; margin-right:5px; vertical-align:middle;}
+
+.table-wrap{
+  overflow-x:auto; -webkit-overflow-scrolling:touch;
+  border:1px solid var(--line-strong); border-radius:var(--radius);
+  background:var(--paper-raised);
+}
+table.reg{width:100%; border-collapse:collapse; font-size:13.5px;}
+table.reg thead th{
+  text-align:left; font-size:11px; color:var(--muted); font-weight:600;
+  border-bottom:1px solid var(--ink); padding:12px 10px 8px; cursor:pointer; white-space:nowrap;
+  background:var(--paper-raised); position:sticky; top:0; z-index:2;
+}
+table.reg thead th:hover{color:var(--maroon);}
+table.reg tbody td{padding:9px 10px; border-bottom:1px solid var(--line); vertical-align:top;}
+table.reg tbody tr:hover{background:var(--maroon-tint);}
+.tag{
+  display:inline-block; font-size:10.5px; padding:2px 7px; border-radius:10px;
+  border:1px solid var(--line-strong); color:var(--ink-soft); white-space:nowrap;
+}
+.tag.pos-first{border-color:var(--maroon); color:var(--maroon);}
+.tag.pos-last{border-color:var(--teal); color:var(--teal);}
+.tag.q-Q1{border-color:var(--gold); color:var(--gold); background:var(--gold-tint);}
+.tag.unsure::after{content:" *"; opacity:.6;}
+.title-cell{max-width:360px;}
+.title-cell a{text-decoration:none; color:var(--ink);}
+.title-cell a:hover{color:var(--maroon); text-decoration:underline;}
+.dept-authors{font-size:12px; color:var(--muted); margin-top:2px;}
+
+.empty-state{
+  border:1px dashed var(--line-strong); border-radius:var(--radius);
+  padding:38px 20px; text-align:center; color:var(--muted); font-size:13.5px;
+}
+
+.leaderboard{border:1px solid var(--line-strong); border-radius:var(--radius); background:var(--paper-raised); margin-bottom:10px; overflow:hidden;}
+.lb-head{
+  display:grid; grid-template-columns:30px 1fr 52px 44px 44px 56px;
+  gap:8px; padding:9px 14px; border-bottom:1px solid var(--ink);
+  font-size:10.5px; color:var(--muted); font-weight:600; text-align:right;
+}
+.lb-head span:nth-child(1), .lb-head span:nth-child(2){text-align:left;}
+.lb-row{
+  display:grid; grid-template-columns:30px 1fr 52px 44px 44px 56px;
+  align-items:center; gap:8px; padding:10px 14px; border-bottom:1px solid var(--line);
+  font-size:13.5px; cursor:pointer;
+}
+.lb-row:last-child{border-bottom:none;}
+.lb-row:hover{background:var(--maroon-tint);}
+.lb-rank{font-family:var(--mono); color:var(--muted); font-size:12px;}
+.lb-name{font-weight:600; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+.lb-num{font-family:var(--mono); font-size:13px; text-align:right;}
+.lb-num.tot{font-weight:600;}
+.lb-num.f{color:var(--maroon);}
+.lb-num.l{color:var(--teal);}
+.lb-num.q{color:var(--gold); font-weight:600;}
+.lb-more{display:flex; justify-content:center; gap:6px; margin-bottom:22px;}
+.lb-more button{
+  border:1px solid var(--line-strong); background:var(--paper-raised); color:var(--ink-soft);
+  padding:7px 15px; font-size:12.5px; border-radius:var(--radius); cursor:pointer;
+}
+.lb-more button.on{background:var(--ink); border-color:var(--ink); color:var(--paper);}
+
+details.jref{border:1px solid var(--line-strong); border-radius:var(--radius); background:var(--paper-raised); padding:14px 16px; margin-top:8px;}
+details.jref summary{cursor:pointer; font-size:13px; font-weight:600; color:var(--ink-soft);}
+.jref table{width:100%; border-collapse:collapse; font-size:12.5px; margin-top:12px;}
+.jref th{text-align:left; color:var(--muted); font-weight:600; padding:4px 8px; border-bottom:1px solid var(--ink); font-size:10.5px;}
+.jref td{padding:5px 8px; border-bottom:1px solid var(--line);}
+
+.scroll-hint{font-size:11.5px; color:var(--muted); margin:0 0 6px;}
+@media (min-width:641px){ .scroll-hint{display:none;} }
+
+.section-head{display:flex; justify-content:space-between; align-items:flex-end; gap:12px; flex-wrap:wrap; margin:44px 0 10px; border-bottom:1px solid var(--line); padding-bottom:8px;}
+.section-head h3{font-family:var(--serif); font-weight:600; font-size:15px; margin:0; color:var(--ink-soft);}
+.dl-btn{
+  border:1px solid var(--line-strong); background:var(--paper-raised); color:var(--ink-soft);
+  padding:7px 13px; font-size:12.5px; border-radius:var(--radius); cursor:pointer; white-space:nowrap;
+}
+.dl-btn:hover{border-color:var(--teal); color:var(--teal);}
+
+footer{max-width:1080px; margin:40px auto 30px; padding:0 28px; font-size:12px; color:var(--muted); border-top:1px solid var(--line); padding-top:16px;}
+
+@media (max-width:640px){
+  .masthead-inner{flex-direction:column; align-items:flex-start;}
+  main{padding:20px 16px;}
+  .masthead{padding:18px 16px 12px;}
+  .banner{padding:0 16px;}
+  .home-stats{grid-template-columns:repeat(2,1fr);}
+  /* 5 stat cells in a 2-col grid leaves a hole — let the first span both */
+  .statrow{grid-template-columns:repeat(2,1fr);}
+  .statrow .statcell:first-child{grid-column:1 / -1;}
+  .lb-row, .lb-head{grid-template-columns:26px 1fr 44px 38px 38px 48px; gap:5px; padding:10px 10px; font-size:12.5px;}
+  .lb-name{font-size:12.5px;}
+  table.reg{font-size:12.5px; min-width:600px;}
+  .title-cell{max-width:260px;}
+  /* bigger tap targets */
+  .pill{padding:8px 14px; font-size:13px;}
+  .chip{padding:9px 15px;}
+  .nav-btn{padding:9px 14px;}
+}
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-inner">
+    <div>
+      <h1 id="brand">Publication Registry</h1>
+      <div class="sub">Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol University</div>
+    </div>
+    <nav>
+      <button class="nav-btn" data-nav="home">Find a faculty member</button>
+      <button class="nav-btn" data-nav="dept">Department overview</button>
+    </nav>
+  </div>
+</div>
+<div class="rule-double"></div>
+
+<div class="banner" id="bannerWrap">
+  <div class="banner-inner">
+    <span id="bannerText"></span>
+    <button id="bannerClose">Dismiss</button>
+  </div>
+</div>
+
+<main>
+
+  <!-- ===== HOME ===== -->
+  <div class="view active" id="view-home">
+    <div class="home-hero">
+      <h2>Find your name.<br>See your publications and stats.</h2>
+      <p>Type a name to see the full publication list, broken down by year, author position and journal quartile.</p>
+      <div class="search-wrap">
+        <input class="search-input" id="searchInput" type="text" placeholder="e.g. Kitisin, Wongtangman, Chaiwat…" autocomplete="off">
+        <div class="search-results" id="searchResults"></div>
+      </div>
+    </div>
+
+    <div class="home-stats" id="homeStats"></div>
+
+    <div class="home-list-title">Most published faculty</div>
+    <div class="chip-row" id="topChips"></div>
+  </div>
+
+  <!-- ===== PERSON ===== -->
+  <div class="view" id="view-person">
+    <div class="crumb"><button data-nav="home">← Back to search</button></div>
+    <h2 class="pagetitle" id="personName">—</h2>
+    <div class="pagesub" id="personSub"></div>
+
+    <div class="filters" id="personFiltersMount"></div>
+
+    <div class="statrow" id="personStats"></div>
+
+    <div class="chart-box">
+      <h4>Publications per year by author position</h4>
+      <div class="legend-row">
+        <span><span class="legend-sw" style="background:#7A2331"></span>First author</span>
+        <span><span class="legend-sw" style="background:#1E6E67"></span>Last author</span>
+        <span><span class="legend-sw" style="background:#C9C1B2"></span>Co-author</span>
+      </div>
+      <div class="chart-canvas-wrap"><canvas id="personChart"></canvas></div>
+    </div>
+
+    <div class="section-head">
+      <h3>Publication list</h3>
+      <button class="dl-btn" data-action="dl-person">Download CSV</button>
+    </div>
+    <p class="scroll-hint">Scroll the table sideways to see the remaining columns</p>
+    <div class="table-wrap">
+    <table class="reg" id="personTable">
+      <thead><tr>
+        <th data-sort="year">Year</th>
+        <th data-sort="pos">Position</th>
+        <th data-sort="doctype">Type</th>
+        <th data-sort="journal">Journal</th>
+        <th data-sort="q">Quartile</th>
+        <th>Title</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table>
+    </div>
+    <div class="empty-state" id="personEmpty" style="display:none;">No publications match the current filters — try adjusting them above.</div>
+  </div>
+
+  <!-- ===== DEPARTMENT ===== -->
+  <div class="view" id="view-dept">
+    <h2 class="pagetitle">Department overview</h2>
+    <div class="pagesub" id="deptSub">Data from PubMed</div>
+
+    <div class="filters" id="deptFiltersMount"></div>
+
+    <div class="statrow" id="deptStats"></div>
+
+    <div class="chart-box">
+      <h4>Publications per year</h4>
+      <div class="legend-row">
+        <span><span class="legend-sw" style="background:#AD7A22"></span>Q1</span>
+        <span><span class="legend-sw" style="background:#C9C1B2"></span>Other quartiles / unknown</span>
+      </div>
+      <div class="chart-canvas-wrap"><canvas id="deptChart"></canvas></div>
+    </div>
+
+    <div class="section-head">
+      <h3>Ranking (reflects the filters above)</h3>
+      <button class="dl-btn" data-action="dl-leaderboard">Download CSV</button>
+    </div>
+    <div class="leaderboard" id="leaderboard"></div>
+    <div class="lb-more" id="lbMore"></div>
+
+    <div class="section-head">
+      <h3>All publications matching the filters</h3>
+      <button class="dl-btn" data-action="dl-dept">Download CSV</button>
+    </div>
+    <p class="scroll-hint">Scroll the table sideways to see the remaining columns</p>
+    <div class="table-wrap">
+    <table class="reg" id="deptTable">
+      <thead><tr>
+        <th data-sort="year">Year</th>
+        <th data-sort="journal">Journal</th>
+        <th data-sort="q">Quartile</th>
+        <th>Title</th>
+        <th>Department members</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table>
+    </div>
+    <div class="empty-state" id="deptEmpty" style="display:none;">No publications match the current filters.</div>
+
+    <details class="jref">
+      <summary id="jrefSummary">Journal reference table (SJR Best Quartile)</summary>
+      <table>
+        <thead><tr><th>Journal</th><th>Papers</th><th>Quartile</th><th>Scopus categories</th></tr></thead>
+        <tbody id="jrefBody"></tbody>
+      </table>
+    </details>
+  </div>
+
+</main>
+
+<footer>
+  <span id="footNote"></span>
+</footer>
+
+<script id="dataBlock" type="application/json">__DATA_JSON__</script>
+<script>
+__APP_JS__
+</script>
+</body>
+</html>
