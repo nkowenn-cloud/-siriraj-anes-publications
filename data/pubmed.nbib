@@ -514,7 +514,7 @@ PMID- 42321629
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20260901
-LR  - 20260904
+LR  - 20260908
 IS  - 1471-2318 (Electronic)
 IS  - 1471-2318 (Linking)
 VI  - 26
@@ -12473,8 +12473,9 @@ SO  - BMJ Open. 2026 Aug 3;16(8):e114774. doi: 10.1136/bmjopen-2025-114774.
 PMID- 42538259
 OWN - NLM
 STAT- Publisher
-LR  - 20260819
+LR  - 20260907
 IS  - 1471-6771 (Electronic)
+IS  - 0007-0912 (Print)
 IS  - 0007-0912 (Linking)
 DP  - 2026 Jul 31
 TI  - Risk assessment and prevention of postoperative and postprocedural respiratory 
@@ -12598,6 +12599,8 @@ TA  - Br J Anaesth
 JT  - British journal of anaesthesia
 JID - 0372541
 SB  - IM
+PMC - PMC13546143
+MID - NIHMS2201197
 OTO - NOTNLM
 OT  - early mobilisation
 OT  - intensive care unit
@@ -12634,6 +12637,7 @@ FIR - Fassbender, Philipp
 IR  - Fassbender P
 EDAT- 2026/08/01 00:36
 MHDA- 2026/08/01 00:36
+PMCR- 2026/09/06
 CRDT- 2026/07/31 21:56
 PHST- 2025/10/22 00:00 [received]
 PHST- 2026/04/30 00:00 [revised]
@@ -12641,6 +12645,7 @@ PHST- 2026/05/04 00:00 [accepted]
 PHST- 2026/08/01 00:36 [medline]
 PHST- 2026/08/01 00:36 [pubmed]
 PHST- 2026/07/31 21:56 [entrez]
+PHST- 2026/09/06 00:00 [pmc-release]
 AID - S0007-0912(26)00471-X [pii]
 AID - 10.1016/j.bja.2026.05.042 [doi]
 PST - aheadofprint
@@ -15692,7 +15697,7 @@ PMID- 41913115
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20260627
-LR  - 20260813
+LR  - 20260912
 IS  - 1471-2318 (Electronic)
 IS  - 1471-2318 (Linking)
 VI  - 26
@@ -30149,7 +30154,7 @@ PMID- 38724324
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240615
-LR  - 20260127
+LR  - 20260909
 IS  - 1471-6771 (Electronic)
 IS  - 0007-0912 (Linking)
 VI  - 133
@@ -30173,6 +30178,7 @@ AD  - Department of Anesthesiology, Montefiore Medical Center and Albert Einstei
       Intensivmedizin, Universitat Duisburg-Essen, Essen, Germany. Electronic address: 
       meikermann@montefiore.org.
 LA  - eng
+PT  - Comment
 PT  - Letter
 DEP - 20240509
 PL  - England
@@ -30183,6 +30189,8 @@ RN  - 0 (Anesthetics, Dissociative)
 RN  - 690G0D6V8H (Ketamine)
 RN  - S88TT14065 (Oxygen)
 SB  - IM
+CON - Br J Anaesth. 2024 Jul;133(1):228-229. doi: 10.1016/j.bja.2024.04.003. PMID: 
+      38702239
 MH  - Humans
 MH  - Anesthetics, Dissociative/administration & dosage
 MH  - Procedural Sedation/methods
@@ -31291,7 +31299,7 @@ PMID- 38087741
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240305
-LR  - 20260614
+LR  - 20260909
 IS  - 1471-6771 (Electronic)
 IS  - 0007-0912 (Linking)
 VI  - 132
@@ -41768,17 +41776,18 @@ SO  - A A Pract. 2026 Aug 3;20(8):e02240. doi: 10.1213/XAA.0000000000002240.
 
 PMID- 42519913
 OWN - NLM
-STAT- Publisher
-LR  - 20260904
+STAT- MEDLINE
+DCOM- 20260909
+LR  - 20260911
 IS  - 1528-1175 (Electronic)
 IS  - 0003-3022 (Print)
 IS  - 0003-3022 (Linking)
 VI  - 145
 IP  - 4
-DP  - 2026 Jul 28
+DP  - 2026 Oct 1
 TI  - Measures of Quality of Recovery and Discharge-readiness Tools in the Pediatric 
       Postanesthesia Care Unit.
-PG  - 1031-41
+PG  - 1031-1041
 LID - 10.1097/ALN.0000000000006193 [doi]
 AB  - The postanesthesia care unit is a critical phase of recovery, yet routine 
       assessment often focuses on discharge readiness rather than the child's recovery 
@@ -41795,7 +41804,7 @@ AB  - The postanesthesia care unit is a critical phase of recovery, yet routine
       variable assessment of the airway, pain, nausea and vomiting, bleeding, and 
       function. A postanesthesia care unit-specific pediatric quality-of-recovery 
       measure remains a key research and quality improvement gap.
-CI  - Copyright (c) 2026 The Author(s). Published by Wolters Kluwer Health, LLC., on 
+CI  - Copyright (c) 2026 The Author(s). Published by Wolters Kluwer Health, LLC, on 
       behalf of the American Society of Anesthesiologists.
 FAU - Jindawatthana, Issada
 AU  - Jindawatthana I
@@ -41830,6 +41839,7 @@ AD  - Anaesthesia Research, Murdoch Children's Research Institute, Melbourne,
       of Melbourne, Melbourne, Australia.
 LA  - eng
 PT  - Journal Article
+PT  - Review
 DEP - 20260728
 PL  - United States
 TA  - Anesthesiology
@@ -41837,21 +41847,28 @@ JT  - Anesthesiology
 JID - 1300217
 SB  - IM
 CIN - doi: 10.1097/ALN.0000000000006270
+MH  - Humans
+MH  - *Anesthesia Recovery Period
+MH  - *Patient Discharge/standards
+MH  - Child
+MH  - Pediatric Anesthesia
+MH  - *Recovery Room/standards
 PMC - PMC13537496
 COIS- The authors declare no competing interests.
 EDAT- 2026/07/28 18:35
-MHDA- 2026/07/28 18:35
+MHDA- 2026/09/09 23:36
 PMCR- 2026/09/02
 CRDT- 2026/07/28 13:17
-PHST- 2026/07/28 18:35 [medline]
+PHST- 2026/09/09 23:36 [medline]
 PHST- 2026/07/28 18:35 [pubmed]
 PHST- 2026/07/28 13:17 [entrez]
 PHST- 2026/09/02 00:00 [pmc-release]
-AID - 00000542-990000000-01097 [pii]
+AID - 00000542-202610000-00037 [pii]
 AID - ALN-D-26-00450 [pii]
 AID - 10.1097/ALN.0000000000006193 [doi]
-PST - aheadofprint
-SO  - Anesthesiology. 2026 Jul 28;145(4):1031-41. doi: 10.1097/ALN.0000000000006193.
+PST - ppublish
+SO  - Anesthesiology. 2026 Oct 1;145(4):1031-1041. doi: 10.1097/ALN.0000000000006193. 
+      Epub 2026 Jul 28.
 
 PMID- 42498449
 OWN - NLM
@@ -45623,7 +45640,7 @@ PMID- 39492085
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241129
-LR  - 20241129
+LR  - 20260907
 IS  - 1872-8243 (Electronic)
 IS  - 1386-5056 (Linking)
 VI  - 193
@@ -45705,6 +45722,7 @@ AD  - Department of Oral Biology and Diagnostic Sciences, Faculty of Dentistry, 
       Chiang Mai 50200, Thailand. Electronic address: anak.ia@cmu.ac.th.
 LA  - eng
 PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20241028
 PL  - Ireland
 TA  - Int J Med Inform
