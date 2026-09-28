@@ -770,12 +770,16 @@ SO  - BMC Geriatr. 2026 Jun 19;26(1):1112. doi: 10.1186/s12877-026-07823-x.
 
 PMID- 42209327
 OWN - NLM
-STAT- Publisher
-LR  - 20260528
+STAT- MEDLINE
+DCOM- 20260923
+LR  - 20260923
 IS  - 1532-8635 (Electronic)
 IS  - 1524-9042 (Linking)
-DP  - 2026 May 28
+VI  - 27
+IP  - 5
+DP  - 2026 Oct
 TI  - Pain Outcomes and Predictors in Transoral Vestibular Thyroidectomy.
+PG  - e1035-e1041
 LID - S1524-9042(26)00158-X [pii]
 LID - 10.1016/j.pmn.2026.04.020 [doi]
 AB  - PURPOSE: The transoral endoscopic thyroidectomy vestibular approach (TOETVA) is 
@@ -839,6 +843,16 @@ JT  - Pain management nursing : official journal of the American Society of Pain
       Management Nurses
 JID - 100890606
 SB  - IM
+MH  - Humans
+MH  - *Thyroidectomy/methods/adverse effects/standards
+MH  - Female
+MH  - Retrospective Studies
+MH  - Middle Aged
+MH  - Male
+MH  - *Postoperative Pain/drug therapy/epidemiology/etiology
+MH  - Adult
+MH  - Pain Measurement/methods
+MH  - Thailand
 OTO - NOTNLM
 OT  - Analgesia
 OT  - Natural orifice endoscopic surgery
@@ -846,19 +860,19 @@ OT  - Pain management
 OT  - Perioperative care
 OT  - Thyroidectomy
 EDAT- 2026/05/29 15:43
-MHDA- 2026/05/29 15:43
+MHDA- 2026/09/23 23:55
 CRDT- 2026/05/28 21:58
 PHST- 2025/10/26 00:00 [received]
 PHST- 2026/04/12 00:00 [revised]
 PHST- 2026/04/26 00:00 [accepted]
-PHST- 2026/05/29 15:43 [medline]
+PHST- 2026/09/23 23:55 [medline]
 PHST- 2026/05/29 15:43 [pubmed]
 PHST- 2026/05/28 21:58 [entrez]
 AID - S1524-9042(26)00158-X [pii]
 AID - 10.1016/j.pmn.2026.04.020 [doi]
-PST - aheadofprint
-SO  - Pain Manag Nurs. 2026 May 28:S1524-9042(26)00158-X. doi: 
-      10.1016/j.pmn.2026.04.020.
+PST - ppublish
+SO  - Pain Manag Nurs. 2026 Oct;27(5):e1035-e1041. doi: 10.1016/j.pmn.2026.04.020. Epub 
+      2026 May 28.
 
 PMID- 42135375
 OWN - NLM
@@ -5355,13 +5369,16 @@ SO  - BMJ Open. 2024 Mar 19;14(3):e080620. doi: 10.1136/bmjopen-2023-080620.
 
 PMID- 38462908
 OWN - NLM
-STAT- Publisher
-LR  - 20240311
+STAT- MEDLINE
+DCOM- 20260922
+LR  - 20260922
 IS  - 1942-7522 (Electronic)
 IS  - 0145-5613 (Linking)
-DP  - 2024 Mar 11
+VI  - 105
+IP  - 10
+DP  - 2026 Oct
 TI  - Emergency Tracheostomy: Complications, Anesthetic Techniques, and Outcomes.
-PG  - 1455613241238620
+PG  - 641-647
 LID - 10.1177/01455613241238620 [doi]
 AB  - Objectives: Acute upper airway obstruction is a critical medical condition that 
       presents considerable challenges to anesthesiologists. This study aims to provide 
@@ -5422,6 +5439,23 @@ TA  - Ear Nose Throat J
 JT  - Ear, nose, & throat journal
 JID - 7701817
 SB  - IM
+MH  - Humans
+MH  - Female
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - *Tracheostomy/adverse effects/methods
+MH  - Male
+MH  - Aged
+MH  - *Intraoperative Complications/epidemiology/etiology
+MH  - *Airway Obstruction/surgery/etiology
+MH  - *Anesthesia, General/adverse effects/methods
+MH  - *Postoperative Complications/epidemiology/etiology
+MH  - Incidence
+MH  - Treatment Outcome
+MH  - Emergencies
+MH  - Adult
+MH  - Hypertension/epidemiology/etiology
+MH  - Hypotension/epidemiology/etiology
 OTO - NOTNLM
 OT  - airway management
 OT  - complications
@@ -5432,14 +5466,15 @@ COIS- Declaration of Conflicting InterestsThe author(s) declared no potential co
       of interest with respect to the research, authorship, and/or publication of this 
       article.
 EDAT- 2024/03/11 06:42
-MHDA- 2024/03/11 06:42
+MHDA- 2026/09/22 05:37
 CRDT- 2024/03/11 03:07
-PHST- 2024/03/11 06:42 [medline]
+PHST- 2026/09/22 05:37 [medline]
 PHST- 2024/03/11 06:42 [pubmed]
 PHST- 2024/03/11 03:07 [entrez]
 AID - 10.1177/01455613241238620 [doi]
-PST - aheadofprint
-SO  - Ear Nose Throat J. 2024 Mar 11:1455613241238620. doi: 10.1177/01455613241238620.
+PST - ppublish
+SO  - Ear Nose Throat J. 2026 Oct;105(10):641-647. doi: 10.1177/01455613241238620. Epub 
+      2024 Mar 11.
 
 PMID- 38448274
 OWN - NLM
@@ -11617,6 +11652,217 @@ PST - ppublish
 SO  - Eur J Pediatr Surg. 2021 Oct;31(5):439-444. doi: 10.1055/s-0040-1716883. Epub 
       2020 Sep 17.
 
+PMID- 42801152
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260927
+LR  - 20260927
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 18
+IP  - 9
+DP  - 2026 Sep
+TI  - Upper-Limb Compartment Syndrome Following Rapid Infusion Catheter Extravasation 
+      During Orthotopic Liver Transplantation: A Case Report.
+PG  - e116959
+LID - 10.7759/cureus.116959 [doi]
+LID - e116959
+AB  - Rapid infusion catheters (RICs) provide high-flow peripheral venous access for 
+      major haemorrhage but can cause severe tissue injury if pressurised infusion 
+      becomes extravascular. We report upper-limb acute compartment syndrome during 
+      orthotopic liver transplantation following transfusion through an 8.5 Fr Arrow 
+      RIC (Teleflex Incorporated, Morrisville, NC, USA). A female in her late 60s with 
+      decompensated cryptogenic cirrhosis underwent urgent transplantation. Four hours 
+      before surgery, an attempt to place an 8.5 Fr RIC in the left antecubital fossa 
+      was abandoned because of guidewire resistance. Immediately before incision, a 
+      second 8.5 Fr RIC was inserted at the same site under real-time ultrasound 
+      guidance; intraluminal position was confirmed and a 20 mL saline flush produced 
+      no resistance or swelling. Approximately 4.5 L of blood products and 
+      resuscitation fluid were subsequently delivered through the circuit over two 
+      hours, although the proportion that extravasated could not be determined. During 
+      the dissection phase, potassium increased to 6.1 mmol/L and lactate to 5.2 
+      mmol/L. Examination beneath the drapes revealed a cool, dusky hand with an absent 
+      radial pulse, a tense anterior compartment of the upper arm, and ecchymosis, 
+      epidermolysis, and haemorrhagic bullae extending from the antecubital fossa into 
+      the proximal forearm. Infusion was stopped immediately, and surgical 
+      decompression of the anterior compartment of the upper arm was performed in 
+      parallel with the transplant. The radial pulse returned immediately after fascial 
+      release, and full motor and sensory function was present at discharge and at 
+      six-week follow-up. This case demonstrates that successful ultrasound 
+      confirmation and an unremarkable test flush at insertion do not ensure continued 
+      intravascular function during positioning, draping, and pressurised infusion. 
+      Persistent or unexplained guidewire resistance warrants reassessment, and a 
+      potentially traumatised vein should not be reused for high-pressure infusion when 
+      safer alternative access is available. High-flow peripheral access sites should 
+      remain visible whenever feasible or undergo a defined programme of reinspection 
+      throughout use.
+CI  - Copyright (c) 2026, Weinberg et al.
+FAU - Weinberg, Laurence
+AU  - Weinberg L
+AD  - Department of Anesthesiology, Austin Health, Melbourne, AUS.
+FAU - Liu, Haoran
+AU  - Liu H
+AD  - Department of Anesthesiology, Austin Health, Heidelberg, AUS.
+FAU - Suh, Jemin
+AU  - Suh J
+AD  - Department of Anesthesiology, Austin Health, Melbourne, AUS.
+FAU - Laas, Daniel
+AU  - Laas D
+AD  - Department of Anesthesiology, Austin Health, Heidelberg, AUS.
+FAU - Raykateeraroj, Nattaya
+AU  - Raykateeraroj N
+AD  - Department of Anesthesiology, Faculty of Medicine, Siriraj Hospital, Mahidol 
+      University, Bangkok, THA.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20260926
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC13615642
+OTO - NOTNLM
+OT  - acute compartment syndrome
+OT  - extravasation injury
+OT  - fasciotomy
+OT  - liver transplantation
+OT  - massive transfusion
+OT  - rapid infusion catheter
+OT  - vascular access complication
+COIS- Human subjects: Informed consent for treatment and open access publication was 
+      obtained or waived by all participants in this study. Austin Health Human 
+      Research Ethics Committee issued approval Not applicable. The patient provided 
+      written informed consent for publication of this report and the accompanying 
+      images; the signed consent form is held by the corresponding author and is 
+      available on request. In accordance with the policy of the Austin Health Human 
+      Research Ethics Committee, formal ethics review is not required for a 
+      single-patient case report. Conflicts of interest: In compliance with the ICMJE 
+      uniform disclosure form, all authors declare the following: Payment/services 
+      info: All authors have declared that no financial support was received from any 
+      organization for the submitted work. Financial relationships: All authors have 
+      declared that they have no financial relationships at present or within the 
+      previous three years with any organizations that might have an interest in the 
+      submitted work. Other relationships: All authors have declared that there are no 
+      other relationships or activities that could appear to have influenced the 
+      submitted work.
+EDAT- 2026/09/27 05:44
+MHDA- 2026/09/27 05:45
+PMCR- 2026/09/26
+CRDT- 2026/09/27 04:02
+PHST- 2026/09/15 00:00 [accepted]
+PHST- 2026/09/27 05:45 [medline]
+PHST- 2026/09/27 05:44 [pubmed]
+PHST- 2026/09/27 04:02 [entrez]
+PHST- 2026/09/26 00:00 [pmc-release]
+AID - 10.7759/cureus.116959 [doi]
+PST - epublish
+SO  - Cureus. 2026 Sep 26;18(9):e116959. doi: 10.7759/cureus.116959. eCollection 2026 
+      Sep.
+
+PMID- 42774665
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260923
+LR  - 20260924
+IS  - 2772-5944 (Electronic)
+IS  - 2772-5944 (Linking)
+VI  - 5
+IP  - 3
+DP  - 2026 Sep
+TI  - Perioperative management of spinal cord stimulators in patients undergoing 
+      non-SCS spine surgery: A retrospective cohort study.
+PG  - 100823
+LID - 10.1016/j.inpm.2026.100823 [doi]
+LID - 100823
+AB  - BACKGROUND: Spinal cord stimulation (SCS) use has expanded, so perioperative 
+      teams increasingly encounter these devices during unrelated spine surgery, where 
+      leads, anchors, and the generator may lie within or adjacent to the operative 
+      field. Real-world perioperative management of these devices remains 
+      uncharacterized. OBJECTIVE: To characterize documented perioperative SCS 
+      management in adults undergoing non-SCS spine surgery and to benchmark 
+      prespecified management elements against current practical guidance. METHODS: In 
+      this single-center retrospective pilot cohort study, we identified adults (>/=18 
+      years) with a previously implanted SCS who underwent non-SCS spine surgery 
+      between April 1, 2016, and March 22, 2026. Prespecified primary outcomes were 
+      alignment with (1) preoperative deactivation or surgery mode and (2) appropriate 
+      electrocautery management (bipolar only, or monopolar with the generator 
+      contralateral to the return pad). Secondary outcomes were device-related adverse 
+      events. Analyses were descriptive, using frequencies and Wilson 95% confidence 
+      intervals (CIs). RESULTS: Fifty-eight surgical cases were included (mean age 59.2 
+      [SD 13.8] years; 30 [51.7%] male; 42 [72.4%] instrumented fusion; all general 
+      anesthesia). Electrocautery was used in every case. Alignment with Element 1 was 
+      13.8% (95% CI, 7.2 to 24.9) and to Element 2 was 43.1% (95% CI, 31.2 to 55.9); 
+      only 2 cases (3.4%; 95% CI, 1.0 to 11.7) met both. A perioperative plan was 
+      documented in 36.2% (95% CI, 25.1 to 49.1) and reactivation before discharge in 
+      19.0% (95% CI, 10.9 to 30.9). Five cases (8.6%; 95% CI, 3.7 to 18.6) had an 
+      SCS-related adverse event, including one generator failure requiring replacement 
+      after monopolar cautery with an undocumented return-pad location. CONCLUSION: 
+      Documented perioperative SCS management during non-SCS spine surgery was 
+      infrequent and fell short of current guidance in this pilot study, coexisting 
+      with a small but non-trivial rate of device-related adverse events. These gaps 
+      warrant prospective evaluation of structured protocols and defined pain-service 
+      engagement.
+CI  - (c) 2026 The Authors. Published by Elsevier Inc. on behalf of International Pain & 
+      Spine Intervention Society.
+FAU - Saleh, Ahmad R
+AU  - Saleh AR
+AD  - Department of Emergency Medicine, NYP Weill Cornell Medical Center, New York, NY, 
+      USA.
+FAU - Standage, Emily
+AU  - Standage E
+AD  - Department of Internal Medicine, Mass General Brigham, Boston, MA, 02114, USA.
+AD  - Harvard Medical School, USA.
+FAU - Luansritisakul, Choopong
+AU  - Luansritisakul C
+AD  - Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol 
+      University, Bangkok, Thailand.
+AD  - Department of Anesthesiology, Mass General Brigham, Boston, MA, 02114, USA.
+FAU - Jin, Eileen
+AU  - Jin E
+AD  - Harvard Medical School, USA.
+AD  - Department of Anesthesiology, Mass General Brigham, Boston, MA, 02114, USA.
+FAU - Smith, Matthew Robert
+AU  - Smith MR
+AD  - Department of Anesthesiology, Mass General Brigham, Boston, MA, 02114, USA.
+FAU - Hao, David
+AU  - Hao D
+AD  - Harvard Medical School, USA.
+AD  - Department of Anesthesiology, Mass General Brigham, Boston, MA, 02114, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20260914
+PL  - United States
+TA  - Interv Pain Med
+JT  - Interventional pain medicine
+JID - 9918591886006676
+PMC - PMC13594427
+OTO - NOTNLM
+OT  - Electrocoagulation
+OT  - Neuromodulation
+OT  - Patient safety
+OT  - Perioperative care
+OT  - Retrospective studies
+OT  - Spinal cord stimulation
+EDAT- 2026/09/23 11:50
+MHDA- 2026/09/23 11:51
+PMCR- 2026/09/14
+CRDT- 2026/09/23 06:37
+PHST- 2026/08/21 00:00 [received]
+PHST- 2026/08/31 00:00 [revised]
+PHST- 2026/08/31 00:00 [accepted]
+PHST- 2026/09/23 11:51 [medline]
+PHST- 2026/09/23 11:50 [pubmed]
+PHST- 2026/09/23 06:37 [entrez]
+PHST- 2026/09/14 00:00 [pmc-release]
+AID - S2772-5944(26)00088-9 [pii]
+AID - 100823 [pii]
+AID - 10.1016/j.inpm.2026.100823 [doi]
+PST - epublish
+SO  - Interv Pain Med. 2026 Sep 14;5(3):100823. doi: 10.1016/j.inpm.2026.100823. 
+      eCollection 2026 Sep.
+
 PMID- 42748766
 OWN - NLM
 STAT- Publisher
@@ -12411,7 +12657,7 @@ PMID- 42577798
 OWN - NLM
 STAT- PubMed-not-MEDLINE
 DCOM- 20260811
-LR  - 20260813
+LR  - 20260926
 IS  - 1687-9589 (Print)
 IS  - 1687-9597 (Electronic)
 IS  - 1687-9597 (Linking)
@@ -12837,7 +13083,7 @@ PMID- 42538259
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20260915
-LR  - 20260916
+LR  - 20260923
 IS  - 1471-6771 (Electronic)
 IS  - 0007-0912 (Print)
 IS  - 0007-0912 (Linking)
@@ -15253,7 +15499,7 @@ PMID- 42004086
 OWN - NLM
 STAT- PubMed-not-MEDLINE
 DCOM- 20260511
-LR  - 20260813
+LR  - 20260921
 IS  - 2772-3682 (Electronic)
 IS  - 2772-3682 (Linking)
 VI  - 48
@@ -23671,7 +23917,7 @@ PMID- 40588376
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20250630
-LR  - 20260127
+LR  - 20260925
 IS  - 2044-6055 (Electronic)
 IS  - 2044-6055 (Linking)
 VI  - 15
@@ -24163,6 +24409,7 @@ PST - ppublish
 SO  - Transl Pediatr. 2025 May 30;14(5):824-833. doi: 10.21037/tp-2025-71. Epub 2025 
       May 26.
 
+
 PMID- 40495980
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -24336,7 +24583,6 @@ AID - 10.1097/ALN.0000000000005466 [doi]
 PST - ppublish
 SO  - Anesthesiology. 2025 Jul 1;143(1):209-212. doi: 10.1097/ALN.0000000000005466. 
       Epub 2025 Jun 10.
-
 
 PMID- 40490260
 OWN - NLM
@@ -29196,7 +29442,7 @@ PMID- 39097487
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241017
-LR  - 20260612
+LR  - 20260923
 IS  - 1532-8422 (Electronic)
 IS  - 1053-0770 (Print)
 IS  - 1053-0770 (Linking)
@@ -42316,7 +42562,7 @@ PMID- 42386483
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20260812
-LR  - 20260814
+LR  - 20260922
 IS  - 1532-8422 (Electronic)
 IS  - 1053-0770 (Print)
 IS  - 1053-0770 (Linking)
@@ -45654,7 +45900,7 @@ PMID- 42074087
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20260716
-LR  - 20260813
+LR  - 20260926
 IS  - 1422-0067 (Electronic)
 IS  - 1422-0067 (Linking)
 VI  - 27
