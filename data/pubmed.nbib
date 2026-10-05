@@ -11652,11 +11652,182 @@ PST - ppublish
 SO  - Eur J Pediatr Surg. 2021 Oct;31(5):439-444. doi: 10.1055/s-0040-1716883. Epub 
       2020 Sep 17.
 
+PMID- 42813175
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260930
+LR  - 20261002
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 18
+IP  - 8
+DP  - 2026 Aug
+TI  - Association of Preoperative Midazolam Administration With Patient Anxiety During 
+      the Transition From the Preoperative Holding Bay to the Operating Room: A 
+      Prospective Observational Study.
+PG  - e115462
+LID - 10.7759/cureus.115462 [doi]
+LID - e115462
+AB  - Background Among patients awaiting surgical procedures, up to 80% experience 
+      anxiety. Midazolam is commonly administered in the preoperative holding bay to 
+      reduce anxiety. However, the effect of benzodiazepines can last longer than 
+      surgery and may lead to an increased risk of neurocognitive impairment. Thus, we 
+      looked into the effects of midazolam administration beyond the preoperative 
+      holding bay. We hypothesized that omitting midazolam in the holding bay increases 
+      anxiety in the operating room and the risk of unpleasant explicit recall. Methods 
+      This study included adult patients undergoing surgical procedures at Montefiore 
+      Medical Center (June-August 2024). Anxiety was assessed using the anxiety 
+      component of the Amsterdam Preoperative Anxiety and Information Scale, and 
+      midazolam was administered accordingly. We assessed postoperative unpleasant 
+      explicit recall in a follow-up survey. Mixed-effects linear and modified Poisson 
+      regression models were used for analyses. Results Among 765 patients studied, 
+      27.5% received midazolam. The mean (standard deviation (SD)) anxiety level was 
+      7.8 (4.3) in the holding bay and 7.9 (4.7) in the operating room. Compared to the 
+      non-midazolam group, those receiving midazolam experienced decreased anxiety from 
+      the preoperative holding bay to the operating room (adjusted mean difference 
+      (AMD): -2.0; 95% confidence interval (CI): -2.5 to -1.5; p<0.001). The 
+      association was stronger in female patients (AMD: -2.9; 95% CI: -3.5 to -2.3; 
+      p<0.001) versus male patients (AMD: -0.9; 95% CI: -1.6 to -0.1; p=0.029) and in 
+      younger (</=30) patients (AMD: -3.8; 95% CI: -5.1 to -2.6; p<0.001) versus older 
+      patients (AMD: -1.8; 95% CI: -2.4 to -1.3; p<0.001). In the follow-up cohort, 
+      midazolam demonstrated a trend towards reduced postoperative unpleasant explicit 
+      recall (adjusted risk ratio: 0.6; 95% CI: 0.4 to 1.1; p=0.103). The Richmond 
+      Agitation-Sedation Scale in the midazolam group (0 (0-0); median (interquartile 
+      range (IQR)) indicated effective anxiolysis without sedation. Conclusions In 
+      summary, our data show that anxiety levels increase from the preoperative holding 
+      bay to the operating room, an effect that was mitigated in patients who received 
+      a mean (SD) of 1.9 (0.6) mg of midazolam. This anxiolytic benefit was magnified 
+      in female and younger patients. These findings underscore the importance of 
+      continuous, structured anxiety assessments.
+CI  - Copyright (c) 2026, Ramishvili et al.
+FAU - Ramishvili, Tina
+AU  - Ramishvili T
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+FAU - Khandaker, Rafi
+AU  - Khandaker R
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+FAU - Schwarz, Jan N
+AU  - Schwarz JN
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+FAU - Masoumi, Samira
+AU  - Masoumi S
+AD  - Department of Anesthesiology and Reanimation, Essen University Hospital, Essen, 
+      DEU.
+FAU - Rippel, Constance
+AU  - Rippel C
+AD  - Department of Anesthesiology, University Children's Hospital Zurich, Zurich, CHE.
+FAU - Stratz, Dorothee
+AU  - Stratz D
+AD  - Department of Anesthesiology, University Children's Hospital Zurich, Zurich, CHE.
+FAU - Zmily, Osamah M
+AU  - Zmily OM
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+FAU - Droege, Lorenz
+AU  - Droege L
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+FAU - Karaye, Ibraheem M
+AU  - Karaye IM
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+FAU - Olubukola, Nafiu O
+AU  - Olubukola NO
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+FAU - Suleiman, Aiman
+AU  - Suleiman A
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+FAU - Alpert, Jonathan E
+AU  - Alpert JE
+AD  - Department of Psychiatry and Behavioral Sciences, Albert Einstein College of 
+      Medicine, Montefiore Medical Center, Bronx, USA.
+FAU - Rego, Simon A
+AU  - Rego SA
+AD  - Department of Psychiatry and Behavioral Sciences, Albert Einstein College of 
+      Medicine, Montefiore Medical Center, Bronx, USA.
+FAU - Ruemmler, Robert
+AU  - Ruemmler R
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+FAU - Wongtangman, Karuna
+AU  - Wongtangman K
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+FAU - Eikermann, Matthias
+AU  - Eikermann M
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+FAU - Fassbender, Philipp
+AU  - Fassbender P
+AD  - Department of Anesthesiology, Albert Einstein College of Medicine, Montefiore 
+      Medical Center, Bronx, USA.
+LA  - eng
+GR  - R01 AG065554/AG/NIA NIH HHS/United States
+GR  - R01 HL132887/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+DEP - 20260830
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC13623454
+OTO - NOTNLM
+OT  - anxiolysis
+OT  - midazolam
+OT  - perioperative care
+OT  - postoperative recall
+OT  - preoperative anxiety
+COIS- Human subjects: Informed consent for treatment and open access publication was 
+      obtained or waived by all participants in this study. The Albert Einstein College 
+      of Medicine Institutional Review Board at Montefiore Medical Center issued 
+      approval 2024-16360/2024-16551. The initial prospective observational study 
+      protocol was approved by the Albert Einstein College of Medicine Institutional 
+      Review Board at Montefiore Medical Center before the start of any study 
+      procedures under the local IRB# 2024-16360. The follow-up survey study protocol 
+      was approved by the Albert Einstein College of Medicine Institutional Review 
+      Board at Montefiore Medical Center before the start of any study procedures under 
+      the local IRB# 2024-16551. For both studies, the Albert Einstein College of 
+      Medicine Institutional Review Board at Montefiore Medical Center granted a waiver 
+      for written informed consent and required only verbal consent to be obtained 
+      prior to study enrolment and participation. All methods were carried out in 
+      accordance with relevant guidelines and regulations. Animal subjects: All authors 
+      have confirmed that this study did not involve animal subjects or tissue. 
+      Conflicts of interest: In compliance with the ICMJE uniform disclosure form, all 
+      authors declare the following: Payment/services info: All authors have declared 
+      that no financial support was received from any organization for the submitted 
+      work. Financial relationships: Dr. Matthias Eikermann declare(s) funding from the 
+      National Institutes of Health (NIH) (R01AG065554 and R01HL132887) and Merck & 
+      Co., which do not pertain to this manuscript. He holds two patents for acyclic 
+      cucurbituril for the reversal of drugs of abuse and neuromuscular blocking agents 
+      (patent numbers: 9956229 and 9469648). He is a member of the associated editorial 
+      board for the British Journal of Anaesthesia. Other relationships: All authors 
+      have declared that there are no other relationships or activities that could 
+      appear to have influenced the submitted work.
+EDAT- 2026/09/30 11:35
+MHDA- 2026/09/30 11:36
+PMCR- 2026/08/30
+CRDT- 2026/09/30 06:46
+PHST- 2026/08/28 00:00 [accepted]
+PHST- 2026/09/30 11:36 [medline]
+PHST- 2026/09/30 11:35 [pubmed]
+PHST- 2026/09/30 06:46 [entrez]
+PHST- 2026/08/30 00:00 [pmc-release]
+AID - 10.7759/cureus.115462 [doi]
+PST - epublish
+SO  - Cureus. 2026 Aug 30;18(8):e115462. doi: 10.7759/cureus.115462. eCollection 2026 
+      Aug.
+
 PMID- 42801152
 OWN - NLM
 STAT- PubMed-not-MEDLINE
 DCOM- 20260927
-LR  - 20260927
+LR  - 20260928
 IS  - 2168-8184 (Print)
 IS  - 2168-8184 (Electronic)
 IS  - 2168-8184 (Linking)
@@ -24279,6 +24450,7 @@ PST - epublish
 SO  - PLoS One. 2025 Jun 17;20(6):e0325829. doi: 10.1371/journal.pone.0325829. 
       eCollection 2025.
 
+
 PMID- 40519729
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -24408,7 +24580,6 @@ AID - 10.21037/tp-2025-71 [doi]
 PST - ppublish
 SO  - Transl Pediatr. 2025 May 30;14(5):824-833. doi: 10.21037/tp-2025-71. Epub 2025 
       May 26.
-
 
 PMID- 40495980
 OWN - NLM
@@ -42562,7 +42733,7 @@ PMID- 42386483
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20260812
-LR  - 20260922
+LR  - 20261004
 IS  - 1532-8422 (Electronic)
 IS  - 1053-0770 (Print)
 IS  - 1053-0770 (Linking)
@@ -47011,6 +47182,7 @@ AID - 10.31557/APJCP.2021.22.6.1875 [doi]
 PST - epublish
 SO  - Asian Pac J Cancer Prev. 2021 Jun 1;22(6):1875-1881. doi: 
       10.31557/APJCP.2021.22.6.1875.
+
 
 PMID- 33524604
 OWN - NLM
