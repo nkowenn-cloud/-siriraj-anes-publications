@@ -2658,7 +2658,7 @@ PMID- 40609139
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20250810
-LR  - 20250811
+LR  - 20261027
 IS  - 1532-3099 (Electronic)
 IS  - 0266-6138 (Linking)
 VI  - 148
@@ -2714,6 +2714,7 @@ AD  - Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahido
       University, Bangkok, Thailand.
 LA  - eng
 PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20250624
 PL  - Scotland
 TA  - Midwifery
@@ -4570,7 +4571,7 @@ PMID- 38907117
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240814
-LR  - 20261010
+LR  - 20261101
 IS  - 1433-0350 (Electronic)
 IS  - 0256-7040 (Linking)
 VI  - 40
@@ -11653,10 +11654,266 @@ PST - ppublish
 SO  - Eur J Pediatr Surg. 2021 Oct;31(5):439-444. doi: 10.1055/s-0040-1716883. Epub 
       2020 Sep 17.
 
+PMID- 42957538
+OWN - NLM
+STAT- Publisher
+LR  - 20261029
+IS  - 1532-8422 (Electronic)
+IS  - 1053-0770 (Linking)
+DP  - 2026 Oct 4
+TI  - Immediate Post-Bypass Thromboelastography and Concordance With Transfusion 
+      Practice in Cardiac Surgery: A Retrospective Observational Study.
+LID - S1053-0770(26)00977-8 [pii]
+LID - 10.1053/j.jvca.2026.10.002 [doi]
+AB  - OBJECTIVES: To evaluate the concordance between immediate post-cardiopulmonary 
+      bypass thromboelastography (TEG) findings and intraoperative transfusion practice 
+      in adult cardiac surgery. DESIGN: Single-center retrospective observational 
+      study. SETTING: Tertiary academic hospital. PARTICIPANTS: Adults undergoing 
+      cardiac surgery with cardiopulmonary bypass who had immediate post-bypass TEG 
+      performed in the operating theater. INTERVENTIONS: None. MEASUREMENTS AND MAIN 
+      RESULTS: Manufacturer-derived TEG thresholds for fresh frozen plasma, platelets, 
+      cryoprecipitate, and procoagulant therapy were compared with observed 
+      intraoperative transfusion practice. Among 207 patients, thresholds were met in 
+      56% for fresh frozen plasma, 20% for platelets, 17% for cryoprecipitate, and 16% 
+      for procoagulants. Intraoperative transfusion rates were higher for platelets, 
+      cryoprecipitate, and procoagulants, particularly in complex surgery, whereas 
+      fresh frozen plasma transfusion was lower than the threshold-based proportion. 
+      Among patients meeting thresholds but not receiving transfusions 
+      intraoperatively, fewer than 15% required the corresponding product within 24 
+      hours. Postoperative chest tube output was broadly similar across TEG-transfusion 
+      patterns, with no clear association between TEG concordance and early 
+      postoperative bleeding. CONCLUSIONS: Substantial discordance existed between 
+      manufacturer-derived post-bypass TEG thresholds and intraoperative transfusion 
+      practice. Transfusion appeared to reflect surgical complexity more closely than 
+      measured coagulation abnormalities.
+CI  - Copyright (c) 2026 Elsevier Inc. All rights reserved.
+FAU - Raykateeraroj, Nattaya
+AU  - Raykateeraroj N
+AD  - Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol 
+      University, Bangkok, Thailand; Department of Anaesthesia, Austin Health, 
+      Heidelberg, Australia. Electronic address: raykageeraroj@gmail.com.
+FAU - Kitisin, Nuanprae
+AU  - Kitisin N
+AD  - Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol 
+      University, Bangkok, Thailand; Department of Intensive Care, Austin Hospital, 
+      Heidelberg, Australia. Electronic address: nuanprae.kit@mahidol.ac.th.
+FAU - Hikasa, Yukiko
+AU  - Hikasa Y
+AD  - Department of Intensive Care, Austin Hospital, Heidelberg, Australia. Electronic 
+      address: ichi_go_ichi_e_kokoro@yahoo.co.jp.
+FAU - Caroli, Alessandro
+AU  - Caroli A
+AD  - Department of Intensive Care, Austin Hospital, Heidelberg, Australia; 
+      Dipartimento di Scienze dell'Emergenza, Anestesiologiche e della Rianimazione, 
+      Fondazione Policlinico Universitario A. Gemelli IRCCS, Rome, Italy. Electronic 
+      address: alessandro_caroli515@outlook.com.
+FAU - Miles, Lachlan
+AU  - Miles L
+AD  - Department of Anaesthesia, Austin Health, Heidelberg, Australia. Electronic 
+      address: Lachlan.MILES@austin.org.au.
+FAU - Weinberg, Laurence
+AU  - Weinberg L
+AD  - Department of Anaesthesia, Austin Health, Heidelberg, Australia; Department of 
+      Critical Care, School of Medicine, University of Melbourne, Parkville, Australia. 
+      Electronic address: Laurence.WEINBERG@austin.org.au.
+FAU - Eastwood, Glenn
+AU  - Eastwood G
+AD  - Department of Intensive Care, Austin Hospital, Heidelberg, Australia; Australian 
+      and New Zealand Intensive Care Research Centre (ANZIC-RC), School of Public 
+      Health and Preventive Medicine, Monash University, Melbourne, Australia. 
+      Electronic address: glenn.eastwood@monash.edu.
+FAU - Serpa Neto, Ary
+AU  - Serpa Neto A
+AD  - Department of Intensive Care, Austin Hospital, Heidelberg, Australia; Department 
+      of Critical Care, School of Medicine, University of Melbourne, Parkville, 
+      Australia; Australian and New Zealand Intensive Care Research Centre (ANZIC-RC), 
+      School of Public Health and Preventive Medicine, Monash University, Melbourne, 
+      Australia; Data Analytics Research and Evaluation (DARE) Centre, Austin Hospital, 
+      Melbourne, Australia; Department of Critical Care Medicine, Hospital Israelita 
+      Albert Einstein, Sao Paulo, Brazil. Electronic address: ary.serpaneto@monash.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20261004
+PL  - United States
+TA  - J Cardiothorac Vasc Anesth
+JT  - Journal of cardiothoracic and vascular anesthesia
+JID - 9110208
+SB  - IM
+OTO - NOTNLM
+OT  - blood coagulation
+OT  - blood transfusion
+OT  - cardiac surgery
+OT  - cardiopulmonary bypass
+OT  - patient blood management
+OT  - thromboelastography
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2026/10/30 05:30
+MHDA- 2026/10/30 05:30
+CRDT- 2026/10/29 23:02
+PHST- 2026/06/13 00:00 [received]
+PHST- 2026/09/23 00:00 [revised]
+PHST- 2026/10/02 00:00 [accepted]
+PHST- 2026/10/30 05:30 [medline]
+PHST- 2026/10/30 05:30 [pubmed]
+PHST- 2026/10/29 23:02 [entrez]
+AID - S1053-0770(26)00977-8 [pii]
+AID - 10.1053/j.jvca.2026.10.002 [doi]
+PST - aheadofprint
+SO  - J Cardiothorac Vasc Anesth. 2026 Oct 4:S1053-0770(26)00977-8. doi: 
+      10.1053/j.jvca.2026.10.002.
+
+PMID- 42954139
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20261029
+LR  - 20261029
+IS  - 1530-6860 (Electronic)
+IS  - 0892-6638 (Linking)
+VI  - 40
+IP  - 21
+DP  - 2026 Nov 15
+TI  - UCHL1 as a Biomarker of Brain Injury in Neonates and Infants Undergoing Cardiac 
+      Surgery: An Exploratory Study.
+LID - e72424 [pii]
+LID - 10.1096/fj.202603356RRRR [doi]
+AB  - As survival rates following pediatric cardiac surgery have improved, 
+      neurodevelopmental impairment has emerged as a significant long-term comorbidity. 
+      Neonates and infants are particularly vulnerable and are at the highest risk for 
+      neurodevelopmental impairment. Imaging study has identified new white matter 
+      injury in up to 20%-50% of this cohort postoperatively. Currently there is no 
+      clinical modality to accurately detect neurological events in real time during 
+      cardiac surgery. Brain imaging remains the gold standard for identifying cerebral 
+      injury, but it is only feasible postoperatively. In this study we intended to 
+      determine a plasma marker suitable to detect intraoperative brain injury by 
+      examining infant piglets undergoing cardiopulmonary bypass (CPB) and 
+      neonates/infants undergoing cardiac surgery on CPB. We compared two different CPB 
+      strategies; full-flow bypass alone and bypass involving circulatory arrest (CA) 
+      in infant piglets where CA was associated with post CPB neurodevelopmental 
+      impairment in our previous study. We found that ubiquitin C-terminal hydrolase L1 
+      (UCHL1), a protein abundantly expressed in the neuronal body, was elevated in the 
+      blood after CA in infant piglets. CA group showed more proinflammatory profiles 
+      than full-flow bypass group. Histological analysis of piglet brain demonstrated 
+      that neurons underwent more apoptosis after CA, along with lower UCHL1 
+      expression. Plasma proteomics analysis in infant piglets suggested the disruption 
+      of blood brain barrier (BBB) after CA compared to full-flow bypass. We 
+      hypothesized that UCHL1 could serve as a promising neurological injury marker in 
+      patients, too. We compared neonates and infants who underwent full-flow bypass 
+      alone and bypass involving CA/regional perfusion (RP) groups. Neonates and 
+      infants subjected to CA/RP had higher odds of having neurodevelopmental 
+      impairment compared to full-flow bypass group. CA/RP group showed more 
+      proinflammatory profiles than full-flow bypass group. Plasma proteomics analysis 
+      in neonates and infants also demonstrated similar findings in CA/RP arm compared 
+      to full-flow arm as we observed in piglets. UCHL1 level at the rewarming during 
+      CPB showed highest area under the curve (AUC) value of 0.7022 (95% CI 
+      0.5692-0.8287). Overall, this study suggested UCHL1 to be a promising biomarker 
+      of brain injury associated with neurodevelopmental impairment following pediatric 
+      cardiac surgery involving CPB.
+CI  - (c) 2026 Federation of American Societies for Experimental Biology.
+FAU - Swangwong, Sirintip
+AU  - Swangwong S
+AD  - Department of Anesthesiology, Critical Care and Pain Medicine, Cardiac Anesthesia 
+      Division, Boston Children's Hospital, Boston, Massachusetts, USA.
+AD  - Department of Anaesthesia, Harvard Medical School, Boston, Massachusetts, USA.
+AD  - Department of Immunology, Harvard Medical School, Boston, Massachusetts, USA.
+AD  - Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA.
+AD  - Department of Anesthesiology, Faculty of Medicine, Siriraj Hospital, Mahidol 
+      University, Bangkok, Thailand.
+FAU - Alhamdan, Fahd
+AU  - Alhamdan F
+AD  - Department of Anesthesiology, Critical Care and Pain Medicine, Cardiac Anesthesia 
+      Division, Boston Children's Hospital, Boston, Massachusetts, USA.
+AD  - Department of Anaesthesia, Harvard Medical School, Boston, Massachusetts, USA.
+AD  - Department of Immunology, Harvard Medical School, Boston, Massachusetts, USA.
+AD  - Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA.
+FAU - Nishiori, Hironobu
+AU  - Nishiori H
+AD  - Department of Anatomy and Neurobiology, Boston University School of Medicine, 
+      Boston, Massachusetts, USA.
+FAU - Maisat, Wiriya
+AU  - Maisat W
+AD  - Department of Anesthesiology, Critical Care and Pain Medicine, Cardiac Anesthesia 
+      Division, Boston Children's Hospital, Boston, Massachusetts, USA.
+AD  - Department of Anaesthesia, Harvard Medical School, Boston, Massachusetts, USA.
+AD  - Department of Immunology, Harvard Medical School, Boston, Massachusetts, USA.
+AD  - Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA.
+AD  - Department of Anesthesiology, Faculty of Medicine, Siriraj Hospital, Mahidol 
+      University, Bangkok, Thailand.
+FAU - Odegard, Kirsten C
+AU  - Odegard KC
+AD  - Department of Anesthesiology, Critical Care and Pain Medicine, Cardiac Anesthesia 
+      Division, Boston Children's Hospital, Boston, Massachusetts, USA.
+AD  - Department of Anaesthesia, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Soriano, Sulpicio
+AU  - Soriano S
+AD  - Department of Anesthesiology, Critical Care and Pain Medicine, Cardiac Anesthesia 
+      Division, Boston Children's Hospital, Boston, Massachusetts, USA.
+AD  - Department of Anaesthesia, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Koutsogiannaki, Sophia
+AU  - Koutsogiannaki S
+AUID- ORCID: 0000-0003-3555-1681
+AD  - Department of Anesthesiology, Critical Care and Pain Medicine, Cardiac Anesthesia 
+      Division, Boston Children's Hospital, Boston, Massachusetts, USA.
+AD  - Department of Anaesthesia, Harvard Medical School, Boston, Massachusetts, USA.
+AD  - Department of Immunology, Harvard Medical School, Boston, Massachusetts, USA.
+AD  - Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA.
+FAU - Ishibashi, Nobuyuki
+AU  - Ishibashi N
+AD  - Department of Anatomy and Neurobiology, Boston University School of Medicine, 
+      Boston, Massachusetts, USA.
+FAU - Yuki, Koichi
+AU  - Yuki K
+AD  - Department of Anesthesiology, Critical Care and Pain Medicine, Cardiac Anesthesia 
+      Division, Boston Children's Hospital, Boston, Massachusetts, USA.
+AD  - Department of Anaesthesia, Harvard Medical School, Boston, Massachusetts, USA.
+AD  - Department of Immunology, Harvard Medical School, Boston, Massachusetts, USA.
+AD  - Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA.
+LA  - eng
+GR  - R21HD109119/HD/NICHD NIH HHS/United States
+GR  - R01HL139712/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - FASEB J
+JT  - FASEB journal : official publication of the Federation of American Societies for 
+      Experimental Biology
+JID - 8804484
+RN  - EC 3.4.19.12 (Ubiquitin Thiolesterase)
+RN  - 0 (Biomarkers)
+RN  - 0 (UCHL1 protein, human)
+SB  - IM
+MH  - Animals
+MH  - *Ubiquitin Thiolesterase/blood/metabolism
+MH  - *Biomarkers/blood/metabolism
+MH  - *Brain Injuries/etiology/blood/metabolism/diagnosis
+MH  - Swine
+MH  - *Cardiopulmonary Bypass/adverse effects
+MH  - Humans
+MH  - Male
+MH  - Infant, Newborn
+MH  - Female
+MH  - *Cardiac Surgical Procedures/adverse effects
+MH  - Animals, Newborn
+MH  - Brain/metabolism
+MH  - Infant
+EDAT- 2026/10/29 15:20
+MHDA- 2026/10/29 15:21
+CRDT- 2026/10/29 06:36
+PHST- 2026/09/28 00:00 [revised]
+PHST- 2026/07/07 00:00 [received]
+PHST- 2026/10/22 00:00 [accepted]
+PHST- 2026/10/29 15:21 [medline]
+PHST- 2026/10/29 15:20 [pubmed]
+PHST- 2026/10/29 06:36 [entrez]
+AID - e72424 [pii]
+AID - 10.1096/fj.202603356RRRR [doi]
+PST - ppublish
+SO  - FASEB J. 2026 Nov 15;40(21):e72424. doi: 10.1096/fj.202603356RRRR.
+
 PMID- 42913727
 OWN - NLM
 STAT- Publisher
-LR  - 20261023
+LR  - 20261026
 IS  - 1976-1902 (Print)
 IS  - 1976-1902 (Linking)
 DP  - 2026 Oct 22
@@ -11672,7 +11929,7 @@ AU  - Nivatpumin P
 AD  - Division of Neurosurgery, Department of Surgery, Chulabhorn Hospital, Chulabhorn 
       Royal Academy, Bangkok, Thailand. padungcharn_26@hotmail.com.
 LA  - eng
-PT  - Journal Article
+PT  - Letter
 DEP - 20261022
 PL  - Korea (South)
 TA  - Asian Spine J
@@ -12646,18 +12903,22 @@ SO  - JAMA Netw Open. 2026 Sep 1;9(9):e2634064. doi:
 
 PMID- 42689364
 OWN - NLM
-STAT- Publisher
-LR  - 20260903
+STAT- MEDLINE
+DCOM- 20261027
+LR  - 20261027
 IS  - 1473-6500 (Electronic)
 IS  - 0952-7907 (Linking)
-DP  - 2026 Sep 3
+VI  - 39
+IP  - 6
+DP  - 2026 Dec 1
 TI  - Ketamine in ambulatory anesthesia: dose-dependent effects on breathing and 
       cortical function.
+PG  - 747-753
 LID - 10.1097/ACO.0000000000001705 [doi]
 AB  - PURPOSE OF REVIEW: Ketamine was introduced into medical practice in 1965 and is 
       widely utilized to provide sedation and analgesia. Low-dose ketamine can be used 
       in ambulatory surgery following an assessment of risks and benefits. RECENT 
-      FINDINGS: Ketamine is an N-methyl-D-aspartate receptor antagonist that decreases 
+      FINDINGS: Ketamine is an N -methyl-D-aspartate receptor antagonist that decreases 
       the firing rate of fast-spiking gamma-aminobutyric acidergic interneurons, 
       leading to a disinhibition of pyramidal neurons and enhanced cortical and 
       respiratory arousal. The consequences are an activation of the sympathetic nerve 
@@ -12697,12 +12958,25 @@ AD  - Klinik fur Anasthesiologie und Intensivmedizin, Universitat Duisburg-Essen
       Essen, Germany.
 LA  - eng
 PT  - Journal Article
+PT  - Review
 DEP - 20260903
 PL  - United States
 TA  - Curr Opin Anaesthesiol
 JT  - Current opinion in anaesthesiology
 JID - 8813436
+RN  - 690G0D6V8H (Ketamine)
+RN  - 0 (Anesthetics, Dissociative)
+RN  - 0 (Receptors, N-Methyl-D-Aspartate)
 SB  - IM
+MH  - Humans
+MH  - *Ketamine/administration & dosage/adverse effects
+MH  - *Ambulatory Surgical Procedures/adverse effects/methods
+MH  - *Respiration/drug effects
+MH  - Dose-Response Relationship, Drug
+MH  - *Anesthetics, Dissociative/administration & dosage/adverse effects
+MH  - *Cerebral Cortex/drug effects
+MH  - Emergence Delirium/prevention & control/etiology
+MH  - Receptors, N-Methyl-D-Aspartate/antagonists & inhibitors
 OTO - NOTNLM
 OT  - ketamine
 OT  - neurocognitive recovery
@@ -12710,15 +12984,18 @@ OT  - postoperative delirium
 OT  - procedural sedation
 OT  - respiratory drive
 EDAT- 2026/09/03 12:09
-MHDA- 2026/09/03 12:09
+MHDA- 2026/10/27 11:30
 CRDT- 2026/09/03 11:14
-PHST- 2026/09/03 12:09 [medline]
+PHST- 2026/08/02 00:00 [received]
+PHST- 2026/08/07 00:00 [accepted]
+PHST- 2026/10/27 11:30 [medline]
 PHST- 2026/09/03 12:09 [pubmed]
 PHST- 2026/09/03 11:14 [entrez]
 AID - 00001503-990000000-00464 [pii]
 AID - 10.1097/ACO.0000000000001705 [doi]
-PST - aheadofprint
-SO  - Curr Opin Anaesthesiol. 2026 Sep 3. doi: 10.1097/ACO.0000000000001705.
+PST - ppublish
+SO  - Curr Opin Anaesthesiol. 2026 Dec 1;39(6):747-753. doi: 
+      10.1097/ACO.0000000000001705. Epub 2026 Sep 3.
 
 PMID- 42660066
 OWN - NLM
@@ -23971,6 +24248,7 @@ PST - ppublish
 SO  - Clin Spine Surg. 2026 Apr 1;39(3):E137-E142. doi: 10.1097/BSD.0000000000001832. 
       Epub 2025 Jul 14.
 
+
 PMID- 40600218
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -24297,7 +24575,6 @@ AID - 10.1016/j.jclinane.2025.111918 [doi]
 PST - ppublish
 SO  - J Clin Anesth. 2025 Sep;106:111918. doi: 10.1016/j.jclinane.2025.111918. Epub 
       2025 Jun 30.
-
 
 PMID- 40591893
 OWN - NLM
@@ -29551,7 +29828,7 @@ PMID- 39179854
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241115
-LR  - 20261010
+LR  - 20261101
 IS  - 1546-170X (Electronic)
 IS  - 1078-8956 (Linking)
 VI  - 30
@@ -32904,7 +33181,7 @@ PMID- 37863862
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240807
-LR  - 20261010
+LR  - 20261031
 IS  - 1573-2614 (Electronic)
 IS  - 1387-1307 (Linking)
 VI  - 38
@@ -45085,7 +45362,7 @@ PMID- 37843561
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240125
-LR  - 20261010
+LR  - 20261031
 IS  - 1438-8359 (Electronic)
 IS  - 0913-8668 (Linking)
 VI  - 38
@@ -46914,6 +47191,7 @@ PST - ppublish
 SO  - Int J Med Inform. 2025 Jan;193:105666. doi: 10.1016/j.ijmedinf.2024.105666. Epub 
       2024 Oct 28.
 
+
 PMID- 39201553
 OWN - NLM
 STAT- MEDLINE
@@ -47172,7 +47450,6 @@ AID - 10.3390/ijerph20010876 [doi]
 PST - epublish
 SO  - Int J Environ Res Public Health. 2023 Jan 3;20(1):876. doi: 
       10.3390/ijerph20010876.
-
 
 PMID- 36212017
 OWN - NLM
