@@ -1,13 +1,18 @@
 
 PMID- 42747527
 OWN - NLM
-STAT- Publisher
-LR  - 20260916
+STAT- MEDLINE
+DCOM- 20261109
+LR  - 20261112
 IS  - 1434-4726 (Electronic)
+IS  - 0937-4477 (Print)
 IS  - 0937-4477 (Linking)
-DP  - 2026 Sep 16
+VI  - 283
+IP  - 11
+DP  - 2026 Oct
 TI  - A randomized trial of nefopam for postoperative pain management in obstructive 
       sleep apnea patients undergoing uvulopalatopharyngoplasty.
+PG  - 7291-7299
 LID - 10.1007/s00405-026-10472-w [doi]
 AB  - OBJECTIVE: Uvulopalatopharyngoplasty (UPPP) is a surgical treatment for 
       obstructive sleep apnea that often results in significant postoperative pain. 
@@ -61,6 +66,7 @@ AD  - Department of Otorhinolaryngology, Faculty of Medicine Siriraj Hospital, M
 LA  - eng
 GR  - R016432020/Faculty of Medicine Siriraj Hospital, Mahidol University/
 PT  - Journal Article
+PT  - Randomized Controlled Trial
 DEP - 20260916
 PL  - Germany
 TA  - Eur Arch Otorhinolaryngol
@@ -68,7 +74,32 @@ JT  - European archives of oto-rhino-laryngology : official journal of the Europ
       Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the 
       German Society for Oto-Rhino-Laryngology - Head and Neck Surgery
 JID - 9002937
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 0 (Analgesics, Opioid)
+RN  - 76I7G6D29C (Morphine)
+RN  - 4UP8060B7J (Nefopam)
 SB  - IM
+MH  - Adult
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Analgesics, Non-Narcotic/therapeutic use/administration & dosage
+MH  - Analgesics, Opioid/therapeutic use
+MH  - Double-Blind Method
+MH  - Morphine/therapeutic use/administration & dosage
+MH  - *Nefopam/therapeutic use/administration & dosage
+MH  - *Otorhinolaryngologic Surgical Procedures/adverse effects/methods
+MH  - *Pain Management/methods
+MH  - Pain Measurement
+MH  - Palate, Soft/surgery
+MH  - Pharynx/surgery
+MH  - *Postoperative Pain/diagnosis/drug therapy
+MH  - Prospective Studies
+MH  - *Sleep Apnea, Obstructive/surgery
+MH  - Treatment Outcome
+MH  - Uvula/surgery
+PMC - PMC13748301
 OTO - NOTNLM
 OT  - Multimodal analgesia
 OT  - Nefopam
@@ -81,17 +112,21 @@ COIS- Declarations. Ethics Approval: The study protocol was approved by the
       consent: Informed consent was obtained from all individual participants included 
       in the study. Conflict of interest: The authors have no conflict of interest.
 EDAT- 2026/09/16 17:36
-MHDA- 2026/09/16 17:36
+MHDA- 2026/11/09 17:29
+PMCR- 2026/09/16
 CRDT- 2026/09/16 11:15
 PHST- 2025/05/08 00:00 [received]
 PHST- 2026/07/06 00:00 [accepted]
-PHST- 2026/09/16 17:36 [medline]
+PHST- 2026/11/09 17:29 [medline]
 PHST- 2026/09/16 17:36 [pubmed]
 PHST- 2026/09/16 11:15 [entrez]
+PHST- 2026/09/16 00:00 [pmc-release]
 AID - 10.1007/s00405-026-10472-w [pii]
+AID - 10472 [pii]
 AID - 10.1007/s00405-026-10472-w [doi]
-PST - aheadofprint
-SO  - Eur Arch Otorhinolaryngol. 2026 Sep 16. doi: 10.1007/s00405-026-10472-w.
+PST - ppublish
+SO  - Eur Arch Otorhinolaryngol. 2026 Oct;283(11):7291-7299. doi: 
+      10.1007/s00405-026-10472-w. Epub 2026 Sep 16.
 
 PMID- 42618727
 OWN - NLM
@@ -1340,7 +1375,7 @@ PMID- 41557614
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20260120
-LR  - 20260123
+LR  - 20261109
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 21
@@ -1402,6 +1437,7 @@ AD  - Department of Anesthesiology, Faculty of Medicine, Siriraj Hospital, Mahid
 LA  - eng
 PT  - Journal Article
 PT  - Observational Study
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20260120
 PL  - United States
 TA  - PLoS One
@@ -9117,7 +9153,7 @@ PMID- 35637457
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220602
-LR  - 20260202
+LR  - 20261109
 IS  - 1471-2253 (Electronic)
 IS  - 1471-2253 (Linking)
 VI  - 22
@@ -11654,6 +11690,139 @@ PST - ppublish
 SO  - Eur J Pediatr Surg. 2021 Oct;31(5):439-444. doi: 10.1055/s-0040-1716883. Epub 
       2020 Sep 17.
 
+PMID- 43015014
+OWN - NLM
+STAT- In-Process
+LR  - 20261113
+IS  - 2044-6055 (Electronic)
+IS  - 2044-6055 (Linking)
+VI  - 16
+IP  - 11
+DP  - 2026 Nov 11
+TI  - Fast-track cardiac anaesthesia and early extubation pathway versus usual care for 
+      adults undergoing coronary artery bypass graft surgery: a two-centre pilot 
+      randomised controlled feasibility trial in Victoria, Australia.
+PG  - e125544
+LID - 10.1136/bmjopen-2026-125544 [doi]
+LID - e125544
+AB  - OBJECTIVES: To assess feasibility and preliminary clinical outcomes of a 
+      fast-track cardiac anaesthesia (FTCA) pathway for scheduled coronary artery 
+      bypass grafting (CABG). DESIGN: Two-centre, open-label, blinded-endpoint, pilot 
+      randomised controlled trial. SETTING: One public and one private hospital in 
+      Victoria, Australia. PARTICIPANTS: Adults undergoing scheduled isolated CABG with 
+      cardiopulmonary bypass, preserved left ventricular systolic function and 
+      low-to-moderate operative risk. INTERVENTIONS: Participants were randomised 1:1 
+      to usual care or an FTCA pathway comprising methadone, dexmedetomidine, 
+      remifentanil, magnesium, lignocaine, sugammadex-based reversal and structured 
+      early extubation. PRIMARY AND SECONDARY OUTCOME MEASURES: Feasibility comprised 
+      five prespecified criteria: recruitment capacity, consent, study drug 
+      administration, absence of administration errors and retention. The primary 
+      clinical endpoint was extubation within 4 hours of intensive care unit admission, 
+      with operating-room extubation assigned zero hours. Secondary outcomes included 
+      extubation time, opioid requirements, pain, length of stay and safety. Analyses 
+      used Fisher's exact, Wilcoxon rank-sum and Kaplan-Meier/Cox methods; efficacy 
+      comparisons were exploratory. RESULTS: Of 374 patients screened, 102 were 
+      eligible and 100 were randomised. Four of the five feasibility criteria were met 
+      at both centres. Recruitment capacity was 1.28 eligible patients per week at 
+      Hospital A and 2.07 at Hospital B; only Hospital B exceeded the threshold of two. 
+      Consent was 98.0%, study drug administration 100% without errors, and dropout 0%. 
+      Early extubation occurred in 27/50 FTCA vs 3/50 usual-care participants (risk 
+      difference 0.48, 95% CI 0.31 to 0.62). Median extubation times were 3.9 versus 
+      10.8 hours (location shift -5.0 hours, 95% CI -7.2 to -3.2). Opioid requirements 
+      in the first 24 hours and severe pain were lower with FTCA. Length of stay was 
+      not clearly reduced; uncommon harms could not be excluded. CONCLUSIONS: Pathway 
+      delivery and retention were achievable, but recruitment feasibility was not 
+      established at both centres. Preliminary clinical findings support a definitive 
+      trial with centre-specific recruitment planning. TRIAL REGISTRATION NUMBER: 
+      ACTRN12625001245482.
+FAU - Weinberg, Laurence
+AU  - Weinberg L
+AUID- ORCID: 0000-0001-7403-7680
+AD  - Department of Anaesthesia, Austin Health, Heidelberg, Victoria, Australia 
+      laurence.weinberg@austin.org.au.
+AD  - Department of Critical Care, The University of Melbourne, Melbourne, Victoria, 
+      Australia.
+FAU - Raykateeraroj, Nattaya
+AU  - Raykateeraroj N
+AUID- ORCID: 0000-0002-1212-2115
+AD  - Department of Anesthesiology, Mahidol University Faculty of Medicine Siriraj 
+      Hospital, Bangkok, Thailand.
+FAU - Pillai, Param
+AU  - Pillai P
+AD  - Department of Anaesthesia, Austin Health, Heidelberg, Victoria, Australia.
+FAU - Lee, Warren
+AU  - Lee W
+AD  - Department of Anaesthesia, Austin Health, Heidelberg, Victoria, Australia.
+FAU - Le, Vincent
+AU  - Le V
+AD  - Department of Anaesthesia, Austin Health, Heidelberg, Victoria, Australia.
+FAU - Caragata, Rebecca
+AU  - Caragata R
+AD  - Department of Anaesthesia, Austin Health, Heidelberg, Victoria, Australia.
+FAU - Suh, Jemin
+AU  - Suh J
+AD  - Department of Anaesthesia, Austin Health, Heidelberg, Victoria, Australia.
+FAU - Williams, Kyle
+AU  - Williams K
+AD  - Department of Anaesthesia, Austin Health, Heidelberg, Victoria, Australia.
+FAU - Koshy, Anoop N
+AU  - Koshy AN
+AD  - Department of Cardiology, Austin Health, Heidelberg, Victoria, Australia.
+FAU - Bhaskar, Jayapadman
+AU  - Bhaskar J
+AD  - Department of Cardiac Surgery, Austin Health, Heidelberg, Victoria, Australia.
+FAU - Matalanis, George
+AU  - Matalanis G
+AD  - Department of Cardiac Surgery, Austin Health, Heidelberg, Victoria, Australia.
+FAU - Seevanayagam, Siven
+AU  - Seevanayagam S
+AD  - Department of Cardiac Surgery, Austin Health, Heidelberg, Victoria, Australia.
+AD  - Department of Thoracic Surgery, Austin Health, Heidelberg, Victoria, Australia.
+FAU - Warrillow, Stephen
+AU  - Warrillow S
+AD  - Intensive Care, Austin Health, Heidelberg, Victoria, Australia.
+FAU - Ansari, Ziauddin
+AU  - Ansari Z
+AD  - Department of Intensive Care, Epworth Eastern Hospital, Box Hill, Victoria, 
+      Australia.
+FAU - Lee, Dong-Kyu
+AU  - Lee DK
+AUID- ORCID: 0000-0002-4068-2363
+AD  - Department of Anesthesiology and Pain Medicine, Dongguk University Ilsan 
+      Hospital, Goyang, Korea (the Republic of).
+FAU - Yii, Michael
+AU  - Yii M
+AD  - Department of Cardiac Surgery, Epworth Eastern Hospital, Box Hill, Victoria, 
+      Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20261111
+PL  - England
+TA  - BMJ Open
+JT  - BMJ open
+JID - 101552874
+SB  - IM
+PMC - PMC13756272
+OTO - NOTNLM
+OT  - Adult anaesthesia
+OT  - Adult intensive & critical care
+OT  - Cardiothoracic surgery
+OT  - Ischaemic heart disease
+OT  - Pain management
+COIS- Competing interests: None declared.
+EDAT- 2026/11/11 23:27
+MHDA- 2026/11/11 23:27
+PMCR- 2026/11/11
+CRDT- 2026/11/11 21:13
+PHST- 2026/11/11 23:27 [medline]
+PHST- 2026/11/11 23:27 [pubmed]
+PHST- 2026/11/11 21:13 [entrez]
+PHST- 2026/11/11 00:00 [pmc-release]
+AID - bmjopen-2026-125544 [pii]
+AID - 10.1136/bmjopen-2026-125544 [doi]
+PST - epublish
+SO  - BMJ Open. 2026 Nov 11;16(11):e125544. doi: 10.1136/bmjopen-2026-125544.
+
 PMID- 42970774
 OWN - NLM
 STAT- Publisher
@@ -12087,13 +12256,18 @@ SO  - FASEB J. 2026 Nov 15;40(21):e72424. doi: 10.1096/fj.202603356RRRR.
 
 PMID- 42913727
 OWN - NLM
-STAT- Publisher
-LR  - 20261026
+STAT- PubMed-not-MEDLINE
+DCOM- 20261109
+LR  - 20261112
 IS  - 1976-1902 (Print)
+IS  - 1976-7846 (Electronic)
 IS  - 1976-1902 (Linking)
-DP  - 2026 Oct 22
+VI  - 20
+IP  - 5
+DP  - 2026 Oct
 TI  - Response to the letter to the editor: Confounding by indication in comparing 
       posterior longitudinal ligament resection and preservation.
+PG  - 1025-1026
 LID - 10.31616/asj.2026.0903.r2 [doi]
 FAU - Niljianskul, Nattawut
 AU  - Niljianskul N
@@ -12110,18 +12284,25 @@ PL  - Korea (South)
 TA  - Asian Spine J
 JT  - Asian spine journal
 JID - 101314177
+PMC - PMC13747644
+COIS- Conflict of Interest No potential conflict of interest relevant to this article 
+      was reported.
 EDAT- 2026/10/23 23:31
-MHDA- 2026/10/23 23:31
+MHDA- 2026/10/23 23:32
+PMCR- 2026/10/01
 CRDT- 2026/10/23 17:59
 PHST- 2026/10/02 00:00 [received]
 PHST- 2026/10/12 00:00 [accepted]
-PHST- 2026/10/23 23:31 [medline]
+PHST- 2026/10/23 23:32 [medline]
 PHST- 2026/10/23 23:31 [pubmed]
 PHST- 2026/10/23 17:59 [entrez]
+PHST- 2026/10/01 00:00 [pmc-release]
 AID - asj.2026.0903.r2 [pii]
+AID - asj-2026-0903-r2 [pii]
 AID - 10.31616/asj.2026.0903.r2 [doi]
-PST - aheadofprint
-SO  - Asian Spine J. 2026 Oct 22. doi: 10.31616/asj.2026.0903.r2.
+PST - ppublish
+SO  - Asian Spine J. 2026 Oct;20(5):1025-1026. doi: 10.31616/asj.2026.0903.r2. Epub 
+      2026 Oct 22.
 
 PMID- 42902313
 OWN - NLM
@@ -15646,7 +15827,7 @@ PMID- 42166494
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20260717
-LR  - 20260813
+LR  - 20261114
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 21
@@ -18971,7 +19152,7 @@ PMID- 41714975
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20260627
-LR  - 20261010
+LR  - 20261109
 IS  - 1471-2318 (Electronic)
 IS  - 1471-2318 (Linking)
 VI  - 26
@@ -24177,6 +24358,7 @@ PST - ppublish
 SO  - Aust Crit Care. 2025 Sep;38(5):101300. doi: 10.1016/j.aucc.2025.101300. Epub 2025 
       Jul 24.
 
+
 PMID- 40689618
 OWN - NLM
 STAT- MEDLINE
@@ -24266,7 +24448,6 @@ AID - 10.1097/SPC.0000000000000767 [doi]
 PST - ppublish
 SO  - Curr Opin Support Palliat Care. 2025 Sep 1;19(3):162-174. doi: 
       10.1097/SPC.0000000000000767. Epub 2025 Jul 29.
-
 
 PMID- 40674252
 OWN - NLM
@@ -25034,7 +25215,7 @@ PMID- 40533618
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20250925
-LR  - 20261105
+LR  - 20261110
 IS  - 1438-8359 (Electronic)
 IS  - 0913-8668 (Linking)
 VI  - 39
@@ -27581,7 +27762,7 @@ PMID- 39883900
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20250504
-LR  - 20260825
+LR  - 20261112
 IS  - 1541-0048 (Electronic)
 IS  - 0090-0036 (Print)
 IS  - 0090-0036 (Linking)
@@ -43205,6 +43386,247 @@ AID - 10.1213/ANE.0000000000004344 [doi]
 PST - ppublish
 SO  - Anesth Analg. 2021 Feb 1;132(2):367-373. doi: 10.1213/ANE.0000000000004344.
 
+PMID- 43028525
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20261114
+LR  - 20261114
+IS  - 2075-4418 (Print)
+IS  - 2075-4418 (Electronic)
+IS  - 2075-4418 (Linking)
+VI  - 16
+IP  - 21
+DP  - 2026 Nov 5
+TI  - The Effectiveness of Mechanical Thrombectomy Following the Siriraj Stroke Fast 
+      Track Activation Protocol.
+LID - 10.3390/diagnostics16213654 [doi]
+LID - 3654
+AB  - Background/Objectives: Mechanical thrombectomy (MT) has become the standard 
+      treatment for ischemic stroke patients with large vessel occlusion (LVO). 
+      However, there is limited understanding of the factors influencing outcomes, 
+      particularly in the Thai population. This study aimed to evaluate the 
+      effectiveness of MT following the Siriraj Stroke Fast Track Activation Protocol 
+      and to identify predictors of favorable outcomes. Methods: A single-center 
+      prospective cohort study enrolled 120 consecutive patients with LVO who underwent 
+      MT between April 2023 and August 2024. The primary outcome was favorable 
+      functional status (modified Rankin Scale 0-2) at 3 months. Univariate and 
+      multivariate logistic regression analyses were performed to identify independent 
+      predictors. Results: Among 120 patients (median age 68 years; 53% male), 57% 
+      achieved favorable outcomes at 3 months. Successful recanalization (modified 
+      Treatment in Cerebral Ischemia >/= 2b) was achieved in 85%, with first-pass effect 
+      in 42%. The mortality rate was 7.5%, and symptomatic intracranial hemorrhage 
+      occurred in 3.3%. Multivariable analysis was restricted to pre- and 
+      intra-procedural variables and estimated by Firth's penalized-likelihood method. 
+      Independent predictors of favorable outcome were successful recanalization (aOR 
+      19.51, 95% CI 2.47-274.05; p = 0.004), absence of diabetes mellitus (aOR 6.22, 
+      95% CI 1.58-32.87; p = 0.008), lower baseline NIHSS (aOR 0.87 per point, 95% CI 
+      0.76-0.96; p = 0.005), and red/mixed thrombus composition (aOR 3.06, 95% CI 
+      1.01-9.96; p = 0.049). Younger age, higher baseline ASPECTS and a minimum 
+      intra-procedural diastolic blood pressure >/= 55 mmHg showed consistent but 
+      non-significant associations. Post-procedural measures such as the 24 h NIHSS 
+      were deliberately excluded from the model because they lie on the causal pathway 
+      to the 3-month outcome. Conclusions: The outcomes of MT at Siriraj Hospital are 
+      comparable to those reported in international studies. Successful recanalization, 
+      absence of diabetes, lower baseline stroke severity and red/mixed thrombus 
+      composition were independently associated with favorable outcome. The 
+      thrombus-composition finding is novel in this population but should be regarded 
+      as hypothesis-generating and requires confirmation with immunohistochemical and 
+      digital-image analysis in larger cohorts. The protocol described here is 
+      resource-appropriate and may be transferable to other stroke centers in low- and 
+      middle-income settings.
+FAU - Nisahoh, Niimron
+AU  - Nisahoh N
+AD  - Division of Interventional Radiology, Department of Radiology, Faculty of 
+      Medicine, Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand.
+FAU - Sangpetngam, Boonrerk
+AU  - Sangpetngam B
+AD  - Division of Interventional Radiology, Department of Radiology, Faculty of 
+      Medicine, Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand.
+FAU - Chankaew, Ekawut
+AU  - Chankaew E
+AD  - Division of Interventional Radiology, Department of Radiology, Faculty of 
+      Medicine, Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand.
+AD  - Division of Neurosurgery, Department of Surgery, Faculty of Medicine, Siriraj 
+      Hospital, Mahidol University, Bangkok 10700, Thailand.
+FAU - Aurboonyawat, Thaweesak
+AU  - Aurboonyawat T
+AD  - Division of Interventional Radiology, Department of Radiology, Faculty of 
+      Medicine, Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand.
+AD  - Division of Neurosurgery, Department of Surgery, Faculty of Medicine, Siriraj 
+      Hospital, Mahidol University, Bangkok 10700, Thailand.
+FAU - Churojana, Anchalee
+AU  - Churojana A
+AD  - Division of Interventional Radiology, Department of Radiology, Faculty of 
+      Medicine, Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand.
+FAU - Srishewachart, Pensiri
+AU  - Srishewachart P
+AUID- ORCID: 0009-0002-0191-6427
+AD  - Department of Anesthesiology, Faculty of Medicine, Siriraj Hospital, Mahidol 
+      University, Bangkok 10700, Thailand.
+FAU - Sathirareuangchai, Sakda
+AU  - Sathirareuangchai S
+AUID- ORCID: 0000-0002-0585-6874
+AD  - Department of Forensic Medicine, Faculty of Medicine, Siriraj Hospital, Mahidol 
+      University, Bangkok 10700, Thailand.
+AD  - Department of Pathology, Faculty of Medicine, Siriraj Hospital, Mahidol 
+      University, Bangkok 10700, Thailand.
+FAU - Withayasuk, Pattarawit
+AU  - Withayasuk P
+AD  - Division of Interventional Radiology, Department of Radiology, Faculty of 
+      Medicine, Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand.
+LA  - eng
+GR  - R016635037/Siriraj Hospital/
+PT  - Journal Article
+DEP - 20261105
+PL  - Switzerland
+TA  - Diagnostics (Basel)
+JT  - Diagnostics (Basel, Switzerland)
+JID - 101658402
+PMC - PMC13761960
+OTO - NOTNLM
+OT  - acute ischemic stroke
+OT  - large vessel occlusion
+OT  - mechanical thrombectomy
+OT  - stroke outcomes
+OT  - thrombus composition
+COIS- The authors declare no conflicts of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript; or in the decision to publish the results.
+EDAT- 2026/11/14 05:32
+MHDA- 2026/11/14 05:33
+PMCR- 2026/11/05
+CRDT- 2026/11/14 00:31
+PHST- 2026/06/25 00:00 [received]
+PHST- 2026/09/01 00:00 [revised]
+PHST- 2026/09/15 00:00 [accepted]
+PHST- 2026/11/14 05:33 [medline]
+PHST- 2026/11/14 05:32 [pubmed]
+PHST- 2026/11/14 00:31 [entrez]
+PHST- 2026/11/05 00:00 [pmc-release]
+AID - diagnostics16213654 [pii]
+AID - diagnostics-16-03654 [pii]
+AID - 10.3390/diagnostics16213654 [doi]
+PST - epublish
+SO  - Diagnostics (Basel). 2026 Nov 5;16(21):3654. doi: 10.3390/diagnostics16213654.
+
+PMID- 43006814
+OWN - NLM
+STAT- Publisher
+LR  - 20261110
+IS  - 1528-1175 (Electronic)
+IS  - 0003-3022 (Linking)
+DP  - 2026 Nov 10
+TI  - Quality of Recovery After Primary Breast Cancer Surgery: A Randomized, 
+      Two-Centre, Triple-Blinded Trial Comparing Erector Spinae Plane Block and 
+      Intravenous Lidocaine Infusion Within a Multimodal Analgesia Framework.
+LID - 10.1097/ALN.0000000000006476 [doi]
+AB  - BACKGROUND: The erector spinae plane block (ESPB) is widely used for primary 
+      breast cancer surgery (BCS), though its clinical benefits within optimized 
+      multimodal analgesia pathways remain uncertain. Intravenous lidocaine infusion 
+      (IVLI) offers a simple, reproducible alternative with potential systemic 
+      analgesic effects. This randomized, tripleblinded, placebo controlled, twocentre 
+      trial compared the quality of recovery after ESPB versus IVLI for BCS. METHODS: 
+      Eighty adult patients undergoing primary BCS, with or without axillary 
+      dissection, were randomized to receive either ultrasoundguided ESPB (n=40) or 
+      intraoperative IVLI (n=40), in addition to a standardized multimodal analgesic 
+      protocol. The primary outcome was quality of recovery (QoR15) score at 24 hours. 
+      Secondary outcomes included postoperative pain scores, opioid consumption, 
+      adverse events, and rescue analgesia requirements. RESULTS: Both interventions 
+      produced excellent postoperative recovery, with 24hour QoR15 scores approaching 
+      preoperative baselines with no significant difference between groups (mean (SD) 
+      24-hour QoR score; ESPB vs. IVLI group, 137.7(17.9) vs. 136.3(8.8), p=0.61). Pain 
+      burden and analgesic requirements over the first 24 hours were similarly low, and 
+      no ESPB or lidocainerelated adverse events were observed. CONCLUSIONS: Within a 
+      standardized multimodal analgesic framework, postoperative recovery and analgesic 
+      outcomes did not differ significantly between IVLI and ESPB, suggesting that IVLI 
+      may offer a pragmatic alternative when regional anesthesia expertise is limited.
+CI  - Copyright (c) 2026 American Society of Anesthesiologists. All Rights Reserved.
+FAU - Sivakumar, Ranjith Kumar
+AU  - Sivakumar RK
+AUID- ORCID: 0000-0003-2319-6440
+AD  - . Department of Anaesthesia and Intensive Care, Faculty of Medicine, The Chinese 
+      University of Hong Kong, Prince of Wales Hospital, Shatin, New Territories, Hong 
+      Kong.
+FAU - Xiong, Wei
+AU  - Xiong W
+AUID- ORCID: 0000-0003-4366-0618
+AD  - . Department of Anesthesiology, The First Affiliated Hospital, Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+FAU - Luckanachanthachote, Chayapa
+AU  - Luckanachanthachote C
+AUID- ORCID: 0009-0005-8618-7455
+AD  - . Department of Anaesthesia and Intensive Care, Faculty of Medicine, The Chinese 
+      University of Hong Kong, Prince of Wales Hospital, Shatin, New Territories, Hong 
+      Kong.
+FAU - Liu, Yuxiao
+AU  - Liu Y
+AUID- ORCID: 0009-0000-1108-501
+AD  - . Department of Anesthesiology, The First Affiliated Hospital, Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+FAU - Wong, Hoi Ling
+AU  - Wong HL
+AUID- ORCID: 0009-0000-4399-0364
+AD  - . Department of Anaesthesia and Intensive Care, Faculty of Medicine, The Chinese 
+      University of Hong Kong, Prince of Wales Hospital, Shatin, New Territories, Hong 
+      Kong.
+FAU - Wu, Jinyu
+AU  - Wu J
+AD  - . Department of Anesthesiology, The First Affiliated Hospital, Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+FAU - Lan, Liangtian
+AU  - Lan L
+AUID- ORCID: 0000-0003-4551-2838
+AD  - . Department of Anesthesiology, The First Affiliated Hospital, Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+FAU - Shi, Yawei
+AU  - Shi Y
+AUID- ORCID: 0000-0002-2602-5383
+AD  - . Department of Breast Surgery, The First Affiliated Hospital, Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+FAU - Lin, Ying
+AU  - Lin Y
+AUID- ORCID: 0000-0002-5923-3306
+AD  - . Department of Breast Surgery, The First Affiliated Hospital, Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+FAU - Feng, Xia
+AU  - Feng X
+AUID- ORCID: 0000-0001-8182-9803
+AD  - . Department of Anesthesiology, The First Affiliated Hospital, Sun Yat-sen 
+      University, Guangzhou, Guangdong, China.
+FAU - Karmakar, Manoj Kumar
+AU  - Karmakar MK
+AUID- ORCID: 0000-0002-3674-2095
+AD  - . Department of Anaesthesia and Intensive Care, Faculty of Medicine, The Chinese 
+      University of Hong Kong, Prince of Wales Hospital, Shatin, New Territories, Hong 
+      Kong.
+LA  - eng
+PT  - Journal Article
+DEP - 20261110
+PL  - United States
+TA  - Anesthesiology
+JT  - Anesthesiology
+JID - 1300217
+SB  - IM
+OTO - NOTNLM
+OT  - analgesia
+OT  - anesthesia
+OT  - breast surgery
+OT  - erector spinae plane block
+OT  - intravenous lidocaine
+OT  - quality of recovery.
+OT  - regional
+COIS- Conflicts of Interest: The authors declare no competing interests
+EDAT- 2026/11/10 11:36
+MHDA- 2026/11/10 11:36
+CRDT- 2026/11/10 08:32
+PHST- 2026/11/10 11:36 [medline]
+PHST- 2026/11/10 11:36 [pubmed]
+PHST- 2026/11/10 08:32 [entrez]
+AID - 00000542-990000000-01236 [pii]
+AID - 10.1097/ALN.0000000000006476 [doi]
+PST - aheadofprint
+SO  - Anesthesiology. 2026 Nov 10. doi: 10.1097/ALN.0000000000006476.
+
 PMID- 42640316
 OWN - NLM
 STAT- MEDLINE
@@ -46785,6 +47207,7 @@ PST - epublish
 SO  - Medicine (Baltimore). 2022 Jun 17;101(24):e29392. doi: 
       10.1097/MD.0000000000029392.
 
+
 PMID- 32538875
 OWN - NLM
 STAT- MEDLINE
@@ -47113,7 +47536,6 @@ AID - ijms-26-03228 [pii]
 AID - 10.3390/ijms26073228 [doi]
 PST - epublish
 SO  - Int J Mol Sci. 2025 Mar 31;26(7):3228. doi: 10.3390/ijms26073228.
-
 
 PMID- 40191760
 OWN - NLM
