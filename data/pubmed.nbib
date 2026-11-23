@@ -498,7 +498,7 @@ SO  - PLoS One. 2026 Aug 7;21(8):e0353121. doi: 10.1371/journal.pone.0353121.
 PMID- 42520010
 OWN - NLM
 STAT- In-Process
-LR  - 20260813
+LR  - 20261118
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 21
@@ -1026,7 +1026,7 @@ PMID- 42133718
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20260717
-LR  - 20260813
+LR  - 20261118
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 21
@@ -1096,6 +1096,7 @@ AD  - Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahido
       University, Bangkok, Thailand.
 LA  - eng
 PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20260514
 PL  - United States
 TA  - PLoS One
@@ -11690,6 +11691,138 @@ PST - ppublish
 SO  - Eur J Pediatr Surg. 2021 Oct;31(5):439-444. doi: 10.1055/s-0040-1716883. Epub 
       2020 Sep 17.
 
+PMID- 43048558
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20261118
+LR  - 20261118
+IS  - 1178-2390 (Print)
+IS  - 1178-2390 (Electronic)
+IS  - 1178-2390 (Linking)
+VI  - 19
+DP  - 2026
+TI  - Effect of Structured Briefing on Workflow and Team Satisfaction in Magnetic 
+      Resonance Imaging (MRI) and Computed Tomography (CT) Services: A Single-Center, 
+      Non-Randomised, Before-and-After Study.
+PG  - 622632
+LID - 10.2147/JMDH.S622632 [doi]
+LID - 622632
+AB  - BACKGROUND: Anaesthesia services for magnetic resonance imaging (MRI) and 
+      computed tomography (CT) exceed 600 cases annually at our university hospital. 
+      Structured briefings based on the World Health Organization Surgical Safety 
+      Checklist (WHOSSC) are not routinely implemented in this high-volume setting. We 
+      hypothesized that introducing structured briefings would improve anaesthesia 
+      workflow continuity, as reflected by reduced delays or interruptions, and team 
+      satisfaction in resource-constrained non-operating room anaesthesia (NORA) 
+      environments. AIM: To evaluate the efficiency of service and the satisfaction of 
+      the multidisciplinary team after the implementation of structured briefings 
+      compared to routine care. METHODS: In this non-randomised, before-and-after 
+      study, patients undergoing MRI or CT with anaesthesia were enrolled during the 
+      routine care phase (n = 53) and the subsequent structured briefing phase (n = 
+      53). Data were collected between 19 March and 2 May 2025. Care was provided by 
+      multidisciplinary teams consisting of registered nurses, nurse assistants, 
+      radiology technicians, anaesthetists, certified registered nurse anaesthetists, 
+      nurse anaesthetist students, and anaesthesia residents. Patient demographics, 
+      team composition, procedural characteristics, service disruptions, adverse 
+      events, and team satisfaction were assessed. Satisfaction was measured using a 
+      5-point Likert scale. Outcomes were compared between routine care and structured 
+      briefing. RESULTS: Demographics were comparable. Procedure and anaesthesia times 
+      did not differ significantly, but estimated duration of the procedure was more 
+      accurate with structured briefings. Service disruptions and adverse events were 
+      similar. Overall team satisfaction was significantly lower with structured 
+      briefings than with routine care, particularly for enhanced communication and 
+      improved care planning. Role-specific analyses showed higher satisfaction with 
+      reduced workload among nurse assistants and with communication and care planning 
+      among nurse anaesthetists during routine care. CONCLUSION: Structured briefings 
+      are standard practice but remain underutilised in MRI and CT settings. We found 
+      that structured briefings were associated with lower team satisfaction but a more 
+      accurate estimate of procedure duration, without differences in workflow 
+      continuity, as reflected by procedural delays or interruptions. More studies are 
+      needed to develop and evaluate implementation strategies that improve team 
+      satisfaction and preserve the benefits of structured briefings.
+CI  - (c) 2026 Hortrakul et al.
+FAU - Hortrakul, Patcha
+AU  - Hortrakul P
+AD  - Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol 
+      University, Bangkok, 10700, Thailand.
+FAU - Somnuke, Pawit
+AU  - Somnuke P
+AUID- ORCID: 0000-0002-6773-1882
+AD  - Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol 
+      University, Bangkok, 10700, Thailand.
+FAU - Yangan, Kornnika
+AU  - Yangan K
+AD  - Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol 
+      University, Bangkok, 10700, Thailand.
+FAU - Pandomrong, Kraingkrai
+AU  - Pandomrong K
+AD  - Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol 
+      University, Bangkok, 10700, Thailand.
+FAU - Songarj, Phuriphong
+AU  - Songarj P
+AD  - Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol 
+      University, Bangkok, 10700, Thailand.
+FAU - Suwatananonthakij, Tarntip
+AU  - Suwatananonthakij T
+AD  - Department of Nursing, Faculty of Medicine Siriraj Hospital, Mahidol University, 
+      Bangkok, 10700, Thailand.
+FAU - Thanakiattiwibun, Chayanan
+AU  - Thanakiattiwibun C
+AD  - Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol 
+      University, Bangkok, 10700, Thailand.
+LA  - eng
+PT  - Journal Article
+DEP - 20261113
+PL  - New Zealand
+TA  - J Multidiscip Healthc
+JT  - Journal of multidisciplinary healthcare
+JID - 101512691
+PMC - PMC13776810
+OAB - Magnetic resonance imaging (MRI) and computed tomography (CT) services in 
+      non-operating room anaesthesia (NORA) settings involve multidisciplinary teams 
+      with variable composition, which may create challenges in communication and 
+      coordination. We conducted a prospective, single-center, non-randomised, 
+      before-and-after study involving 106 patients undergoing anaesthesia for MRI or 
+      CT procedures to evaluate the effects of a structured multidisciplinary briefing 
+      on workflow and team satisfaction. The structured briefing was associated with a 
+      more accurate prediction of procedure duration but did not significantly reduce 
+      procedure time or workflow disruption. Satisfaction with several aspects of 
+      teamwork was greater with routine care than with structured briefing. These 
+      findings suggest that structured briefings may support workflow coordination, but 
+      should be carefully designed and adapted to the needs of multidisciplinary teams. 
+      Further research should evaluate shorter, more focused briefing formats and 
+      strategies to promote effective communication, teamwork, and participation among 
+      team members.
+OABL- eng
+OTO - NOTNLM
+OT  - CT
+OT  - MRI
+OT  - NORA
+OT  - computed tomography
+OT  - magnetic resonance imaging
+OT  - multidisciplinary team
+OT  - non-operating room anaesthesia
+OT  - patient safety
+OT  - structured briefing
+COIS- The authors declared that the research was conducted in the absence of commercial 
+      or financial affiliations that could be interpreted as a potential conflict of 
+      interest.
+EDAT- 2026/11/18 11:30
+MHDA- 2026/11/18 11:31
+PMCR- 2026/11/13
+CRDT- 2026/11/18 06:53
+PHST- 2026/05/07 00:00 [received]
+PHST- 2026/10/31 00:00 [accepted]
+PHST- 2026/11/18 11:31 [medline]
+PHST- 2026/11/18 11:30 [pubmed]
+PHST- 2026/11/18 06:53 [entrez]
+PHST- 2026/11/13 00:00 [pmc-release]
+AID - 622632 [pii]
+AID - 10.2147/JMDH.S622632 [doi]
+PST - epublish
+SO  - J Multidiscip Healthc. 2026 Nov 13;19:622632. doi: 10.2147/JMDH.S622632. 
+      eCollection 2026.
+
 PMID- 43015014
 OWN - NLM
 STAT- In-Process
@@ -12990,12 +13123,13 @@ SO  - Interv Pain Med. 2026 Sep 14;5(3):100823. doi: 10.1016/j.inpm.2026.100823.
 
 PMID- 42748766
 OWN - NLM
-STAT- Publisher
-LR  - 20260916
+STAT- MEDLINE
+DCOM- 20261117
+LR  - 20261117
 IS  - 1532-3374 (Electronic)
 IS  - 0959-289X (Linking)
 VI  - 68
-DP  - 2026 Sep 11
+DP  - 2026 Nov
 TI  - Spinal cord stimulation in pregnancy and peripartum management and maternal and 
       device outcomes: a retrospective cohort study (2015-2026).
 PG  - 105282
@@ -13050,6 +13184,17 @@ TA  - Int J Obstet Anesth
 JT  - International journal of obstetric anesthesia
 JID - 9200430
 SB  - IM
+MH  - Humans
+MH  - Female
+MH  - Pregnancy
+MH  - Retrospective Studies
+MH  - Adult
+MH  - Peripartum Period
+MH  - *Spinal Cord Stimulation/methods
+MH  - *Anesthesia, Obstetrical/methods
+MH  - Cohort Studies
+MH  - Analgesia, Obstetrical/methods
+MH  - Cesarean Section
 OTO - NOTNLM
 OT  - Cesarean delivery
 OT  - Labor analgesia
@@ -13061,18 +13206,19 @@ COIS- Declaration of competing interest The authors declare that they have no kn
       competing financial interests or personal relationships that could have appeared 
       to influence the work reported in this paper.
 EDAT- 2026/09/16 23:34
-MHDA- 2026/09/16 23:34
+MHDA- 2026/11/17 23:30
 CRDT- 2026/09/16 18:13
 PHST- 2026/08/10 00:00 [received]
 PHST- 2026/09/10 00:00 [revised]
 PHST- 2026/09/10 00:00 [accepted]
-PHST- 2026/09/16 23:34 [medline]
+PHST- 2026/11/17 23:30 [medline]
 PHST- 2026/09/16 23:34 [pubmed]
 PHST- 2026/09/16 18:13 [entrez]
 AID - S0959-289X(26)00440-1 [pii]
 AID - 10.1016/j.ijoa.2026.105282 [doi]
-PST - aheadofprint
-SO  - Int J Obstet Anesth. 2026 Sep 11;68:105282. doi: 10.1016/j.ijoa.2026.105282.
+PST - ppublish
+SO  - Int J Obstet Anesth. 2026 Nov;68:105282. doi: 10.1016/j.ijoa.2026.105282. Epub 
+      2026 Sep 11.
 
 PMID- 42742938
 OWN - NLM
@@ -13908,12 +14054,13 @@ SO  - Obstet Gynecol Int. 2026 Aug 10;2026:9946379. doi: 10.1155/ogi/9946379.
 
 PMID- 42567036
 OWN - NLM
-STAT- Publisher
-LR  - 20260807
+STAT- MEDLINE
+DCOM- 20261117
+LR  - 20261117
 IS  - 1532-3374 (Electronic)
 IS  - 0959-289X (Linking)
 VI  - 68
-DP  - 2026 Aug 1
+DP  - 2026 Nov
 TI  - Maternal outcomes in pregnant women with cardiovascular disease under cardiac 
       versus non-cardiac anesthesiologists' care: a retrospective cohort study in a 
       tertiary center in Thailand (2016-2023).
@@ -13966,6 +14113,7 @@ AD  - Division of Obstetric Anesthesiology, Department of Anesthesiology, Brigha
       Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol 
       University, Bangkok, Thailand. Electronic address: saranya.kai@mahidol.ac.th.
 LA  - eng
+PT  - Comparative Study
 PT  - Journal Article
 DEP - 20260801
 PL  - Netherlands
@@ -13973,6 +14121,19 @@ TA  - Int J Obstet Anesth
 JT  - International journal of obstetric anesthesia
 JID - 9200430
 SB  - IM
+MH  - Humans
+MH  - Female
+MH  - Pregnancy
+MH  - Retrospective Studies
+MH  - *Pregnancy Complications, Cardiovascular
+MH  - *Anesthesia, Obstetrical/methods
+MH  - Adult
+MH  - Tertiary Care Centers
+MH  - *Cesarean Section
+MH  - *Pregnancy Outcome
+MH  - Thailand
+MH  - *Anesthesiologists
+MH  - Cohort Studies
 OTO - NOTNLM
 OT  - Anesthesiology
 OT  - Cardiovascular
@@ -13983,18 +14144,19 @@ COIS- Declaration of competing interest The authors declare that they have no kn
       competing financial interests or personal relationships that could have appeared 
       to influence the work reported in this paper.
 EDAT- 2026/08/08 00:37
-MHDA- 2026/08/08 00:37
+MHDA- 2026/11/17 23:29
 CRDT- 2026/08/07 18:07
 PHST- 2026/05/28 00:00 [received]
 PHST- 2026/07/14 00:00 [revised]
 PHST- 2026/07/31 00:00 [accepted]
-PHST- 2026/08/08 00:37 [medline]
+PHST- 2026/11/17 23:29 [medline]
 PHST- 2026/08/08 00:37 [pubmed]
 PHST- 2026/08/07 18:07 [entrez]
 AID - S0959-289X(26)00421-8 [pii]
 AID - 10.1016/j.ijoa.2026.105263 [doi]
-PST - aheadofprint
-SO  - Int J Obstet Anesth. 2026 Aug 1;68:105263. doi: 10.1016/j.ijoa.2026.105263.
+PST - ppublish
+SO  - Int J Obstet Anesth. 2026 Nov;68:105263. doi: 10.1016/j.ijoa.2026.105263. Epub 
+      2026 Aug 1.
 
 PMID- 42565179
 OWN - NLM
@@ -22999,7 +23161,7 @@ PMID- 41024341
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20260306
-LR  - 20260813
+LR  - 20261122
 IS  - 1537-1921 (Electronic)
 IS  - 0898-4921 (Print)
 IS  - 0898-4921 (Linking)
@@ -23112,6 +23274,7 @@ AD  - Department of Population Health Sciences.
 AD  - Department of Anesthesiology.
 CN  - TRACK-TBI investigators
 LA  - eng
+GR  - K23 NS109274/NS/NINDS NIH HHS/United States
 GR  - R01 NS130832/NS/NINDS NIH HHS/United States
 GR  - K23NS109274 and R01NS130832/GF/NIH HHS/United States
 PT  - Journal Article
@@ -24227,6 +24390,7 @@ PST - ppublish
 SO  - Anesth Analg. 2026 Feb 1;142(2):312-325. doi: 10.1213/ANE.0000000000007682. Epub 
       2025 Aug 5.
 
+
 PMID- 40712554
 OWN - NLM
 STAT- MEDLINE
@@ -24357,7 +24521,6 @@ AID - 10.1016/j.aucc.2025.101300 [doi]
 PST - ppublish
 SO  - Aust Crit Care. 2025 Sep;38(5):101300. doi: 10.1016/j.aucc.2025.101300. Epub 2025 
       Jul 24.
-
 
 PMID- 40689618
 OWN - NLM
@@ -25580,7 +25743,7 @@ SO  - Transl Pediatr. 2025 May 30;14(5):824-833. doi: 10.21037/tp-2025-71. Epub 
 PMID- 40495980
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20250822
+LR  - 20261122
 IS  - 2297-055X (Print)
 IS  - 2297-055X (Electronic)
 IS  - 2297-055X (Linking)
@@ -25653,7 +25816,6 @@ AD  - Department of Immunology, Harvard Medical School, Boston, MA, United State
 AD  - Broad Institute of Harvard and MIT, Cambridge, MA, United States.
 LA  - eng
 GR  - R21 HD109119/HD/NICHD NIH HHS/United States
-GR  - R25 HD109110/HD/NICHD NIH HHS/United States
 PT  - Journal Article
 DEP - 20250527
 PL  - Switzerland
@@ -25887,7 +26049,7 @@ SO  - J Neurosurg Anesthesiol. 2025 Jul 1;37(3):319-324. doi:
 PMID- 40453290
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20250603
+LR  - 20261122
 IS  - 2168-8184 (Print)
 IS  - 2168-8184 (Electronic)
 IS  - 2168-8184 (Linking)
@@ -25962,6 +26124,7 @@ FAU - Blacker, Samuel
 AU  - Blacker S
 AD  - Anesthesiology, University of North Carolina at Chapel Hill, Chapel Hill, USA.
 LA  - eng
+GR  - K08 NS125038/NS/NINDS NIH HHS/United States
 PT  - Journal Article
 DEP - 20250430
 PL  - United States
@@ -29753,7 +29916,7 @@ PMID- 39353124
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241001
-LR  - 20241001
+LR  - 20261118
 IS  - 2150-1149 (Electronic)
 IS  - 1533-3159 (Linking)
 VI  - 27
@@ -34567,7 +34730,7 @@ SO  - Transl Perioper Pain Med. 2023;10(2):530-532. Epub 2023 Jun 20.
 PMID- 37533506
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20230911
+LR  - 20261121
 IS  - 2474-0527 (Electronic)
 IS  - 2474-0527 (Linking)
 VI  - 7
@@ -34649,6 +34812,8 @@ AD  - Department of Physical Medicine & Rehabilitation, Walter Reed National Mil
       Medical Center, Uniformed Services University of the Health Sciences, Bethesda, 
       Maryland, USA.
 LA  - eng
+GR  - R01 DA048206/DA/NIDA NIH HHS/United States
+GR  - U24 NS115708/NS/NINDS NIH HHS/United States
 PT  - Journal Article
 DEP - 20230728
 PL  - United States
@@ -42113,7 +42278,7 @@ PMID- 33560352
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20210913
-LR  - 20260127
+LR  - 20261121
 IS  - 1526-4637 (Electronic)
 IS  - 1526-2375 (Print)
 IS  - 1526-2375 (Linking)
@@ -42180,8 +42345,8 @@ AD  - Department of Anesthesiology, Perioperative and Pain Medicine, Brigham and
       Women's Hospital, Harvard Medical School, 75 Francis St, Boston, Massachusetts, 
       USA.
 LA  - eng
-GR  - R35 GM128691/GM/NIGMS NIH HHS/United States
 GR  - K23 GM110540/GM/NIGMS NIH HHS/United States
+GR  - R35 GM128691/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 PT  - Observational Study
 PT  - Research Support, N.I.H., Extramural
@@ -42768,7 +42933,7 @@ PMID- 33341223
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20210308
-LR  - 20220302
+LR  - 20261121
 IS  - 1471-6771 (Electronic)
 IS  - 0007-0912 (Print)
 IS  - 0007-0912 (Linking)
@@ -42850,6 +43015,7 @@ AD  - Department of Anaesthesia, Critical Care and Pain Medicine, Beth Israel De
       Hospital Herne, Universitatsklinikum der Ruhr-Universitat Bochum, Bochum, 
       Germany.
 LA  - eng
+GR  - UG3 HL140177/HL/NHLBI NIH HHS/United States
 PT  - Journal Article
 DEP - 20201217
 PL  - England
@@ -47121,6 +47287,7 @@ PST - ppublish
 SO  - J Magn Reson. 2024 Jan;358:107602. doi: 10.1016/j.jmr.2023.107602. Epub 2023 Dec 
       6.
 
+
 PMID- 35713444
 OWN - NLM
 STAT- MEDLINE
@@ -47206,7 +47373,6 @@ AID - 10.1097/MD.0000000000029392 [doi]
 PST - epublish
 SO  - Medicine (Baltimore). 2022 Jun 17;101(24):e29392. doi: 
       10.1097/MD.0000000000029392.
-
 
 PMID- 32538875
 OWN - NLM
